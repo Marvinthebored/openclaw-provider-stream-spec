@@ -1,0 +1,591 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"First"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":", the"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" farmer has"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" 17"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" sheep."}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":" The"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" phrase \""}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":" die\""}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" means that"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":" everything except"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":" for"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":" sheep die"}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":". So"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":", if"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":" all"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":", that"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":" means "}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":"9 sheep"}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":" left alive"}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":"Let"}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":" me break"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":" it down"}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":"9\""}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":" refers to"}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":" the sheep"}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":" that die"}}
+{"seq":39,"stream":"thinking","data":{"variant":"raw","delta":". So"}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","delta":", all"}}
+{"seq":41,"stream":"thinking","data":{"variant":"raw","delta":" sheep"}}
+{"seq":42,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":43,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":44,"stream":"thinking","data":{"variant":"raw","delta":", which"}}
+{"seq":45,"stream":"thinking","data":{"variant":"raw","delta":" implies that"}}
+{"seq":46,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":47,"stream":"thinking","data":{"variant":"raw","delta":"9 sheep"}}
+{"seq":48,"stream":"thinking","data":{"variant":"raw","delta":" survive.\n\n"}}
+{"seq":49,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":50,"stream":"thinking","data":{"variant":"raw","delta":" total"}}
+{"seq":51,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":52,"stream":"thinking","data":{"variant":"raw","delta":" of sheep"}}
+{"seq":53,"stream":"thinking","data":{"variant":"raw","delta":" is "}}
+{"seq":54,"stream":"thinking","data":{"variant":"raw","delta":"17."}}
+{"seq":55,"stream":"thinking","data":{"variant":"raw","delta":" If all"}}
+{"seq":56,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":57,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":58,"stream":"thinking","data":{"variant":"raw","delta":", that"}}
+{"seq":59,"stream":"thinking","data":{"variant":"raw","delta":" means the"}}
+{"seq":60,"stream":"thinking","data":{"variant":"raw","delta":" number that"}}
+{"seq":61,"stream":"thinking","data":{"variant":"raw","delta":" die is"}}
+{"seq":62,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":63,"stream":"thinking","data":{"variant":"raw","delta":" total minus"}}
+{"seq":64,"stream":"thinking","data":{"variant":"raw","delta":" the "}}
+{"seq":65,"stream":"thinking","data":{"variant":"raw","delta":"9 that"}}
+{"seq":66,"stream":"thinking","data":{"variant":"raw","delta":" survive."}}
+{"seq":67,"stream":"thinking","data":{"variant":"raw","delta":" So,"}}
+{"seq":68,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":69,"stream":"thinking","data":{"variant":"raw","delta":"17 -"}}
+{"seq":70,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":71,"stream":"thinking","data":{"variant":"raw","delta":" = "}}
+{"seq":72,"stream":"thinking","data":{"variant":"raw","delta":"8 sheep"}}
+{"seq":73,"stream":"thinking","data":{"variant":"raw","delta":" die."}}
+{"seq":74,"stream":"thinking","data":{"variant":"raw","delta":" Therefore,"}}
+{"seq":75,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":76,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":77,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":78,"stream":"thinking","data":{"variant":"raw","delta":"I"}}
+{"seq":79,"stream":"thinking","data":{"variant":"raw","delta":" can"}}
+{"seq":80,"stream":"thinking","data":{"variant":"raw","delta":" think of"}}
+{"seq":81,"stream":"thinking","data":{"variant":"raw","delta":" it as"}}
+{"seq":82,"stream":"thinking","data":{"variant":"raw","delta":": \""}}
+{"seq":83,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":84,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":85,"stream":"thinking","data":{"variant":"raw","delta":"9\""}}
+{"seq":86,"stream":"thinking","data":{"variant":"raw","delta":" means everything"}}
+{"seq":87,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":88,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":89,"stream":"thinking","data":{"variant":"raw","delta":" so the"}}
+{"seq":90,"stream":"thinking","data":{"variant":"raw","delta":" sheep"}}
+{"seq":91,"stream":"thinking","data":{"variant":"raw","delta":" that die"}}
+{"seq":92,"stream":"thinking","data":{"variant":"raw","delta":" are all"}}
+{"seq":93,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":94,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":95,"stream":"thinking","data":{"variant":"raw","delta":" leaving "}}
+{"seq":96,"stream":"thinking","data":{"variant":"raw","delta":"9 alive"}}
+{"seq":97,"stream":"thinking","data":{"variant":"raw","delta":".\n\nSometimes"}}
+{"seq":98,"stream":"thinking","data":{"variant":"raw","delta":" people get"}}
+{"seq":99,"stream":"thinking","data":{"variant":"raw","delta":" confused with"}}
+{"seq":100,"stream":"thinking","data":{"variant":"raw","delta":" phrases like"}}
+{"seq":101,"stream":"thinking","data":{"variant":"raw","delta":" this"}}
+{"seq":102,"stream":"thinking","data":{"variant":"raw","delta":". For"}}
+{"seq":103,"stream":"thinking","data":{"variant":"raw","delta":" example,"}}
+{"seq":104,"stream":"thinking","data":{"variant":"raw","delta":" if someone"}}
+{"seq":105,"stream":"thinking","data":{"variant":"raw","delta":" says \""}}
+{"seq":106,"stream":"thinking","data":{"variant":"raw","delta":"I have"}}
+{"seq":107,"stream":"thinking","data":{"variant":"raw","delta":" all but"}}
+{"seq":108,"stream":"thinking","data":{"variant":"raw","delta":" finished"}}
+{"seq":109,"stream":"thinking","data":{"variant":"raw","delta":",\""}}
+{"seq":110,"stream":"thinking","data":{"variant":"raw","delta":" it means"}}
+{"seq":111,"stream":"thinking","data":{"variant":"raw","delta":" they have"}}
+{"seq":112,"stream":"thinking","data":{"variant":"raw","delta":" almost finished"}}
+{"seq":113,"stream":"thinking","data":{"variant":"raw","delta":", but"}}
+{"seq":114,"stream":"thinking","data":{"variant":"raw","delta":" here it"}}
+{"seq":115,"stream":"thinking","data":{"variant":"raw","delta":"'s about"}}
+{"seq":116,"stream":"thinking","data":{"variant":"raw","delta":" sheep dying"}}
+{"seq":117,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":118,"stream":"thinking","data":{"variant":"raw","delta":" it should"}}
+{"seq":119,"stream":"thinking","data":{"variant":"raw","delta":" be straightforward"}}
+{"seq":120,"stream":"thinking","data":{"variant":"raw","delta":".\n\nThe"}}
+{"seq":121,"stream":"thinking","data":{"variant":"raw","delta":" question"}}
+{"seq":122,"stream":"thinking","data":{"variant":"raw","delta":" says"}}
+{"seq":123,"stream":"thinking","data":{"variant":"raw","delta":": \""}}
+{"seq":124,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":125,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":126,"stream":"thinking","data":{"variant":"raw","delta":" die.\""}}
+{"seq":127,"stream":"thinking","data":{"variant":"raw","delta":" So,"}}
+{"seq":128,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":129,"stream":"thinking","data":{"variant":"raw","delta":"die"}}
+{"seq":130,"stream":"thinking","data":{"variant":"raw","delta":"\" is"}}
+{"seq":131,"stream":"thinking","data":{"variant":"raw","delta":" the verb"}}
+{"seq":132,"stream":"thinking","data":{"variant":"raw","delta":", and"}}
+{"seq":133,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":134,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":135,"stream":"thinking","data":{"variant":"raw","delta":"9\""}}
+{"seq":136,"stream":"thinking","data":{"variant":"raw","delta":" is the"}}
+{"seq":137,"stream":"thinking","data":{"variant":"raw","delta":" subject."}}
+{"seq":138,"stream":"thinking","data":{"variant":"raw","delta":" So,"}}
+{"seq":139,"stream":"thinking","data":{"variant":"raw","delta":" all sheep"}}
+{"seq":140,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":141,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":142,"stream":"thinking","data":{"variant":"raw","delta":".\n\nTherefore"}}
+{"seq":143,"stream":"thinking","data":{"variant":"raw","delta":", "}}
+{"seq":144,"stream":"thinking","data":{"variant":"raw","delta":"9 sheep"}}
+{"seq":145,"stream":"thinking","data":{"variant":"raw","delta":" do not"}}
+{"seq":146,"stream":"thinking","data":{"variant":"raw","delta":" die;"}}
+{"seq":147,"stream":"thinking","data":{"variant":"raw","delta":" they are"}}
+{"seq":148,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":149,"stream":"thinking","data":{"variant":"raw","delta":"So,"}}
+{"seq":150,"stream":"thinking","data":{"variant":"raw","delta":" the number"}}
+{"seq":151,"stream":"thinking","data":{"variant":"raw","delta":" left is"}}
+{"seq":152,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":153,"stream":"thinking","data":{"variant":"raw","delta":".\n\nNow"}}
+{"seq":154,"stream":"thinking","data":{"variant":"raw","delta":", I"}}
+{"seq":155,"stream":"thinking","data":{"variant":"raw","delta":" need to"}}
+{"seq":156,"stream":"thinking","data":{"variant":"raw","delta":" explain my"}}
+{"seq":157,"stream":"thinking","data":{"variant":"raw","delta":" reasoning in"}}
+{"seq":158,"stream":"thinking","data":{"variant":"raw","delta":" one short"}}
+{"seq":159,"stream":"thinking","data":{"variant":"raw","delta":" sentence and"}}
+{"seq":160,"stream":"thinking","data":{"variant":"raw","delta":" then give"}}
+{"seq":161,"stream":"thinking","data":{"variant":"raw","delta":" the final"}}
+{"seq":162,"stream":"thinking","data":{"variant":"raw","delta":" number.\n\n"}}
+{"seq":163,"stream":"thinking","data":{"variant":"raw","delta":"Reasoning"}}
+{"seq":164,"stream":"thinking","data":{"variant":"raw","delta":": Since"}}
+{"seq":165,"stream":"thinking","data":{"variant":"raw","delta":" all"}}
+{"seq":166,"stream":"thinking","data":{"variant":"raw","delta":" except"}}
+{"seq":167,"stream":"thinking","data":{"variant":"raw","delta":" nine"}}
+{"seq":168,"stream":"thinking","data":{"variant":"raw","delta":" die"}}
+{"seq":169,"stream":"thinking","data":{"variant":"raw","delta":", nine"}}
+{"seq":170,"stream":"thinking","data":{"variant":"raw","delta":" sheep survive"}}
+{"seq":171,"stream":"thinking","data":{"variant":"raw","delta":".\n\nFinal"}}
+{"seq":172,"stream":"thinking","data":{"variant":"raw","delta":" number:"}}
+{"seq":173,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":174,"stream":"thinking","data":{"variant":"raw","delta":"\n\nThe"}}
+{"seq":175,"stream":"thinking","data":{"variant":"raw","delta":" farmer"}}
+{"seq":176,"stream":"thinking","data":{"variant":"raw","delta":" started"}}
+{"seq":177,"stream":"thinking","data":{"variant":"raw","delta":" with "}}
+{"seq":178,"stream":"thinking","data":{"variant":"raw","delta":"17,"}}
+{"seq":179,"stream":"thinking","data":{"variant":"raw","delta":" but that"}}
+{"seq":180,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":181,"stream":"thinking","data":{"variant":"raw","delta":" is just"}}
+{"seq":182,"stream":"thinking","data":{"variant":"raw","delta":" to set"}}
+{"seq":183,"stream":"thinking","data":{"variant":"raw","delta":" the context"}}
+{"seq":184,"stream":"thinking","data":{"variant":"raw","delta":". The"}}
+{"seq":185,"stream":"thinking","data":{"variant":"raw","delta":" key is"}}
+{"seq":186,"stream":"thinking","data":{"variant":"raw","delta":" that"}}
+{"seq":187,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":188,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":189,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":190,"stream":"thinking","data":{"variant":"raw","delta":"\" specifies"}}
+{"seq":191,"stream":"thinking","data":{"variant":"raw","delta":" that "}}
+{"seq":192,"stream":"thinking","data":{"variant":"raw","delta":"9 are"}}
+{"seq":193,"stream":"thinking","data":{"variant":"raw","delta":" left,"}}
+{"seq":194,"stream":"thinking","data":{"variant":"raw","delta":" regardless of"}}
+{"seq":195,"stream":"thinking","data":{"variant":"raw","delta":" the initial"}}
+{"seq":196,"stream":"thinking","data":{"variant":"raw","delta":" number,"}}
+{"seq":197,"stream":"thinking","data":{"variant":"raw","delta":" but here"}}
+{"seq":198,"stream":"thinking","data":{"variant":"raw","delta":" the initial"}}
+{"seq":199,"stream":"thinking","data":{"variant":"raw","delta":" number is"}}
+{"seq":200,"stream":"thinking","data":{"variant":"raw","delta":" given,"}}
+{"seq":201,"stream":"thinking","data":{"variant":"raw","delta":" and"}}
+{"seq":202,"stream":"thinking","data":{"variant":"raw","delta":" it matches"}}
+{"seq":203,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":204,"stream":"thinking","data":{"variant":"raw","delta":" 17"}}
+{"seq":205,"stream":"thinking","data":{"variant":"raw","delta":" - "}}
+{"seq":206,"stream":"thinking","data":{"variant":"raw","delta":"8 ="}}
+{"seq":207,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":208,"stream":"thinking","data":{"variant":"raw","delta":", but"}}
+{"seq":209,"stream":"thinking","data":{"variant":"raw","delta":" I"}}
+{"seq":210,"stream":"thinking","data":{"variant":"raw","delta":" don't"}}
+{"seq":211,"stream":"thinking","data":{"variant":"raw","delta":" need to"}}
+{"seq":212,"stream":"thinking","data":{"variant":"raw","delta":" calculate that"}}
+{"seq":213,"stream":"thinking","data":{"variant":"raw","delta":"; the"}}
+{"seq":214,"stream":"thinking","data":{"variant":"raw","delta":" phrase directly"}}
+{"seq":215,"stream":"thinking","data":{"variant":"raw","delta":" says"}}
+{"seq":216,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":217,"stream":"thinking","data":{"variant":"raw","delta":"9 are"}}
+{"seq":218,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":219,"stream":"thinking","data":{"variant":"raw","delta":"The phrase"}}
+{"seq":220,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":221,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":222,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":223,"stream":"thinking","data":{"variant":"raw","delta":"\" depends"}}
+{"seq":224,"stream":"thinking","data":{"variant":"raw","delta":" on the"}}
+{"seq":225,"stream":"thinking","data":{"variant":"raw","delta":" total."}}
+{"seq":226,"stream":"thinking","data":{"variant":"raw","delta":" For"}}
+{"seq":227,"stream":"thinking","data":{"variant":"raw","delta":" example,"}}
+{"seq":228,"stream":"thinking","data":{"variant":"raw","delta":" if there"}}
+{"seq":229,"stream":"thinking","data":{"variant":"raw","delta":" were "}}
+{"seq":230,"stream":"thinking","data":{"variant":"raw","delta":"10 sheep"}}
+{"seq":231,"stream":"thinking","data":{"variant":"raw","delta":", all"}}
+{"seq":232,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":233,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":234,"stream":"thinking","data":{"variant":"raw","delta":" would mean"}}
+{"seq":235,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":236,"stream":"thinking","data":{"variant":"raw","delta":" die and"}}
+{"seq":237,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":238,"stream":"thinking","data":{"variant":"raw","delta":"1 is"}}
+{"seq":239,"stream":"thinking","data":{"variant":"raw","delta":" left,"}}
+{"seq":240,"stream":"thinking","data":{"variant":"raw","delta":" but here"}}
+{"seq":241,"stream":"thinking","data":{"variant":"raw","delta":" it's"}}
+{"seq":242,"stream":"thinking","data":{"variant":"raw","delta":" 17"}}
+{"seq":243,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":244,"stream":"thinking","data":{"variant":"raw","delta":" so "}}
+{"seq":245,"stream":"thinking","data":{"variant":"raw","delta":"17 -"}}
+{"seq":246,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":247,"stream":"thinking","data":{"variant":"raw","delta":" = "}}
+{"seq":248,"stream":"thinking","data":{"variant":"raw","delta":"8 die"}}
+{"seq":249,"stream":"thinking","data":{"variant":"raw","delta":", "}}
+{"seq":250,"stream":"thinking","data":{"variant":"raw","delta":"9 left"}}
+{"seq":251,"stream":"thinking","data":{"variant":"raw","delta":". But"}}
+{"seq":252,"stream":"thinking","data":{"variant":"raw","delta":" the phrase"}}
+{"seq":253,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":254,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":255,"stream":"thinking","data":{"variant":"raw","delta":"9\""}}
+{"seq":256,"stream":"thinking","data":{"variant":"raw","delta":" means the"}}
+{"seq":257,"stream":"thinking","data":{"variant":"raw","delta":" surviving"}}
+{"seq":258,"stream":"thinking","data":{"variant":"raw","delta":" group"}}
+{"seq":259,"stream":"thinking","data":{"variant":"raw","delta":" is "}}
+{"seq":260,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":261,"stream":"thinking","data":{"variant":"raw","delta":" I"}}
+{"seq":262,"stream":"thinking","data":{"variant":"raw","delta":" think.\n\n"}}
+{"seq":263,"stream":"thinking","data":{"variant":"raw","delta":"Let me"}}
+{"seq":264,"stream":"thinking","data":{"variant":"raw","delta":" confirm with"}}
+{"seq":265,"stream":"thinking","data":{"variant":"raw","delta":" a smaller"}}
+{"seq":266,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":267,"stream":"thinking","data":{"variant":"raw","delta":". Suppose"}}
+{"seq":268,"stream":"thinking","data":{"variant":"raw","delta":" there"}}
+{"seq":269,"stream":"thinking","data":{"variant":"raw","delta":" are "}}
+{"seq":270,"stream":"thinking","data":{"variant":"raw","delta":"10 sheep"}}
+{"seq":271,"stream":"thinking","data":{"variant":"raw","delta":". All"}}
+{"seq":272,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":273,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":274,"stream":"thinking","data":{"variant":"raw","delta":". That"}}
+{"seq":275,"stream":"thinking","data":{"variant":"raw","delta":" would"}}
+{"seq":276,"stream":"thinking","data":{"variant":"raw","delta":" mean all"}}
+{"seq":277,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":278,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":279,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":280,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":281,"stream":"thinking","data":{"variant":"raw","delta":" die?"}}
+{"seq":282,"stream":"thinking","data":{"variant":"raw","delta":" No:"}}
+{"seq":283,"stream":"thinking","data":{"variant":"raw","delta":" all"}}
+{"seq":284,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":285,"stream":"thinking","data":{"variant":"raw","delta":"9 means"}}
+{"seq":286,"stream":"thinking","data":{"variant":"raw","delta":" everything"}}
+{"seq":287,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":288,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":289,"stream":"thinking","data":{"variant":"raw","delta":" so if"}}
+{"seq":290,"stream":"thinking","data":{"variant":"raw","delta":" all except"}}
+{"seq":291,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":292,"stream":"thinking","data":{"variant":"raw","delta":" die,"}}
+{"seq":293,"stream":"thinking","data":{"variant":"raw","delta":" that means"}}
+{"seq":294,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":295,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":296,"stream":"thinking","data":{"variant":"raw","delta":" alive"}}
+{"seq":297,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":298,"stream":"thinking","data":{"variant":"raw","delta":" and only"}}
+{"seq":299,"stream":"thinking","data":{"variant":"raw","delta":" one"}}
+{"seq":300,"stream":"thinking","data":{"variant":"raw","delta":" dies?"}}
+{"seq":301,"stream":"thinking","data":{"variant":"raw","delta":" That"}}
+{"seq":302,"stream":"thinking","data":{"variant":"raw","delta":" doesn't"}}
+{"seq":303,"stream":"thinking","data":{"variant":"raw","delta":" make sense"}}
+{"seq":304,"stream":"thinking","data":{"variant":"raw","delta":" with "}}
+{"seq":305,"stream":"thinking","data":{"variant":"raw","delta":"10.\n\n"}}
+{"seq":306,"stream":"thinking","data":{"variant":"raw","delta":"If there"}}
+{"seq":307,"stream":"thinking","data":{"variant":"raw","delta":" are "}}
+{"seq":308,"stream":"thinking","data":{"variant":"raw","delta":"10 sheep"}}
+{"seq":309,"stream":"thinking","data":{"variant":"raw","delta":", \""}}
+{"seq":310,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":311,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":312,"stream":"thinking","data":{"variant":"raw","delta":" die\""}}
+{"seq":313,"stream":"thinking","data":{"variant":"raw","delta":" – all"}}
+{"seq":314,"stream":"thinking","data":{"variant":"raw","delta":" sheep"}}
+{"seq":315,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":316,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":317,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":318,"stream":"thinking","data":{"variant":"raw","delta":" So,"}}
+{"seq":319,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":320,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":321,"stream":"thinking","data":{"variant":"raw","delta":" meaning"}}
+{"seq":322,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":323,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":324,"stream":"thinking","data":{"variant":"raw","delta":" not dying"}}
+{"seq":325,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":326,"stream":"thinking","data":{"variant":"raw","delta":" they"}}
+{"seq":327,"stream":"thinking","data":{"variant":"raw","delta":" survive,"}}
+{"seq":328,"stream":"thinking","data":{"variant":"raw","delta":" and the"}}
+{"seq":329,"stream":"thinking","data":{"variant":"raw","delta":" remaining one"}}
+{"seq":330,"stream":"thinking","data":{"variant":"raw","delta":" dies?"}}
+{"seq":331,"stream":"thinking","data":{"variant":"raw","delta":" But"}}
+{"seq":332,"stream":"thinking","data":{"variant":"raw","delta":" that"}}
+{"seq":333,"stream":"thinking","data":{"variant":"raw","delta":" would be"}}
+{"seq":334,"stream":"thinking","data":{"variant":"raw","delta":": "}}
+{"seq":335,"stream":"thinking","data":{"variant":"raw","delta":"9"}}
+{"seq":336,"stream":"thinking","data":{"variant":"raw","delta":" survive,"}}
+{"seq":337,"stream":"thinking","data":{"variant":"raw","delta":" one"}}
+{"seq":338,"stream":"thinking","data":{"variant":"raw","delta":" dies.\n\n"}}
+{"seq":339,"stream":"thinking","data":{"variant":"raw","delta":"But \""}}
+{"seq":340,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":341,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":342,"stream":"thinking","data":{"variant":"raw","delta":"\" –"}}
+{"seq":343,"stream":"thinking","data":{"variant":"raw","delta":" if "}}
+{"seq":344,"stream":"thinking","data":{"variant":"raw","delta":"9 survive"}}
+{"seq":345,"stream":"thinking","data":{"variant":"raw","delta":", then"}}
+{"seq":346,"stream":"thinking","data":{"variant":"raw","delta":" the number"}}
+{"seq":347,"stream":"thinking","data":{"variant":"raw","delta":" that die"}}
+{"seq":348,"stream":"thinking","data":{"variant":"raw","delta":" is "}}
+{"seq":349,"stream":"thinking","data":{"variant":"raw","delta":"10 -"}}
+{"seq":350,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":351,"stream":"thinking","data":{"variant":"raw","delta":" = "}}
+{"seq":352,"stream":"thinking","data":{"variant":"raw","delta":"1.\n\n"}}
+{"seq":353,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":354,"stream":"thinking","data":{"variant":"raw","delta":" phrase is"}}
+{"seq":355,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":356,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":357,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":358,"stream":"thinking","data":{"variant":"raw","delta":" die,\""}}
+{"seq":359,"stream":"thinking","data":{"variant":"raw","delta":" which means"}}
+{"seq":360,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":361,"stream":"thinking","data":{"variant":"raw","delta":" group"}}
+{"seq":362,"stream":"thinking","data":{"variant":"raw","delta":" that dies"}}
+{"seq":363,"stream":"thinking","data":{"variant":"raw","delta":" consists"}}
+{"seq":364,"stream":"thinking","data":{"variant":"raw","delta":" of all"}}
+{"seq":365,"stream":"thinking","data":{"variant":"raw","delta":" except"}}
+{"seq":366,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":367,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":368,"stream":"thinking","data":{"variant":"raw","delta":" it"}}
+{"seq":369,"stream":"thinking","data":{"variant":"raw","delta":"'s the"}}
+{"seq":370,"stream":"thinking","data":{"variant":"raw","delta":" dying group"}}
+{"seq":371,"stream":"thinking","data":{"variant":"raw","delta":" that is"}}
+{"seq":372,"stream":"thinking","data":{"variant":"raw","delta":" all but"}}
+{"seq":373,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":374,"stream":"thinking","data":{"variant":"raw","delta":", meaning"}}
+{"seq":375,"stream":"thinking","data":{"variant":"raw","delta":" everything"}}
+{"seq":376,"stream":"thinking","data":{"variant":"raw","delta":" except "}}
+{"seq":377,"stream":"thinking","data":{"variant":"raw","delta":"9 dies"}}
+{"seq":378,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":379,"stream":"thinking","data":{"variant":"raw","delta":" so "}}
+{"seq":380,"stream":"thinking","data":{"variant":"raw","delta":"9 are"}}
+{"seq":381,"stream":"thinking","data":{"variant":"raw","delta":" excluded from"}}
+{"seq":382,"stream":"thinking","data":{"variant":"raw","delta":" dying,"}}
+{"seq":383,"stream":"thinking","data":{"variant":"raw","delta":" so they"}}
+{"seq":384,"stream":"thinking","data":{"variant":"raw","delta":" live"}}
+{"seq":385,"stream":"thinking","data":{"variant":"raw","delta":".\n\nIn"}}
+{"seq":386,"stream":"thinking","data":{"variant":"raw","delta":" terms of"}}
+{"seq":387,"stream":"thinking","data":{"variant":"raw","delta":" grammar,"}}
+{"seq":388,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":389,"stream":"thinking","data":{"variant":"raw","delta":" but\""}}
+{"seq":390,"stream":"thinking","data":{"variant":"raw","delta":" can be"}}
+{"seq":391,"stream":"thinking","data":{"variant":"raw","delta":" tricky"}}
+{"seq":392,"stream":"thinking","data":{"variant":"raw","delta":".\n\n\""}}
+{"seq":393,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":394,"stream":"thinking","data":{"variant":"raw","delta":"\" can"}}
+{"seq":395,"stream":"thinking","data":{"variant":"raw","delta":" mean \""}}
+{"seq":396,"stream":"thinking","data":{"variant":"raw","delta":"almost\""}}
+{"seq":397,"stream":"thinking","data":{"variant":"raw","delta":" or \""}}
+{"seq":398,"stream":"thinking","data":{"variant":"raw","delta":"everything except"}}
+{"seq":399,"stream":"thinking","data":{"variant":"raw","delta":",\" but"}}
+{"seq":400,"stream":"thinking","data":{"variant":"raw","delta":" in this"}}
+{"seq":401,"stream":"thinking","data":{"variant":"raw","delta":" context,"}}
+{"seq":402,"stream":"thinking","data":{"variant":"raw","delta":" it's"}}
+{"seq":403,"stream":"thinking","data":{"variant":"raw","delta":" \"everything"}}
+{"seq":404,"stream":"thinking","data":{"variant":"raw","delta":" except.\"\n\n"}}
+{"seq":405,"stream":"thinking","data":{"variant":"raw","delta":"For"}}
+{"seq":406,"stream":"thinking","data":{"variant":"raw","delta":" example,"}}
+{"seq":407,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":408,"stream":"thinking","data":{"variant":"raw","delta":" but one"}}
+{"seq":409,"stream":"thinking","data":{"variant":"raw","delta":"\" means"}}
+{"seq":410,"stream":"thinking","data":{"variant":"raw","delta":" all"}}
+{"seq":411,"stream":"thinking","data":{"variant":"raw","delta":" except one"}}
+{"seq":412,"stream":"thinking","data":{"variant":"raw","delta":".\n\nSo"}}
+{"seq":413,"stream":"thinking","data":{"variant":"raw","delta":" here,"}}
+{"seq":414,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":415,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":416,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":417,"stream":"thinking","data":{"variant":"raw","delta":"\" means"}}
+{"seq":418,"stream":"thinking","data":{"variant":"raw","delta":" all except"}}
+{"seq":419,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":420,"stream":"thinking","data":{"variant":"raw","delta":"9 die"}}
+{"seq":421,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":422,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":423,"stream":"thinking","data":{"variant":"raw","delta":" do"}}
+{"seq":424,"stream":"thinking","data":{"variant":"raw","delta":" not die"}}
+{"seq":425,"stream":"thinking","data":{"variant":"raw","delta":";"}}
+{"seq":426,"stream":"thinking","data":{"variant":"raw","delta":" they are"}}
+{"seq":427,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":428,"stream":"thinking","data":{"variant":"raw","delta":"Therefore,"}}
+{"seq":429,"stream":"thinking","data":{"variant":"raw","delta":" with "}}
+{"seq":430,"stream":"thinking","data":{"variant":"raw","delta":"17 sheep"}}
+{"seq":431,"stream":"thinking","data":{"variant":"raw","delta":", "}}
+{"seq":432,"stream":"thinking","data":{"variant":"raw","delta":"9 are"}}
+{"seq":433,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":434,"stream":"thinking","data":{"variant":"raw","delta":"If"}}
+{"seq":435,"stream":"thinking","data":{"variant":"raw","delta":" it"}}
+{"seq":436,"stream":"thinking","data":{"variant":"raw","delta":" were \""}}
+{"seq":437,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":438,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":439,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":440,"stream":"thinking","data":{"variant":"raw","delta":" dead,\""}}
+{"seq":441,"stream":"thinking","data":{"variant":"raw","delta":" that might"}}
+{"seq":442,"stream":"thinking","data":{"variant":"raw","delta":" be different"}}
+{"seq":443,"stream":"thinking","data":{"variant":"raw","delta":", but"}}
+{"seq":444,"stream":"thinking","data":{"variant":"raw","delta":" it"}}
+{"seq":445,"stream":"thinking","data":{"variant":"raw","delta":" says \""}}
+{"seq":446,"stream":"thinking","data":{"variant":"raw","delta":"die,\""}}
+{"seq":447,"stream":"thinking","data":{"variant":"raw","delta":" which is"}}
+{"seq":448,"stream":"thinking","data":{"variant":"raw","delta":" the action"}}
+{"seq":449,"stream":"thinking","data":{"variant":"raw","delta":".\n\nThe"}}
+{"seq":450,"stream":"thinking","data":{"variant":"raw","delta":" sentence is"}}
+{"seq":451,"stream":"thinking","data":{"variant":"raw","delta":": \""}}
+{"seq":452,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":453,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":454,"stream":"thinking","data":{"variant":"raw","delta":" die.\""}}
+{"seq":455,"stream":"thinking","data":{"variant":"raw","delta":" So,"}}
+{"seq":456,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":457,"stream":"thinking","data":{"variant":"raw","delta":" verb"}}
+{"seq":458,"stream":"thinking","data":{"variant":"raw","delta":" is \""}}
+{"seq":459,"stream":"thinking","data":{"variant":"raw","delta":"die,\""}}
+{"seq":460,"stream":"thinking","data":{"variant":"raw","delta":" and \""}}
+{"seq":461,"stream":"thinking","data":{"variant":"raw","delta":"all but"}}
+{"seq":462,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":463,"stream":"thinking","data":{"variant":"raw","delta":"\" is"}}
+{"seq":464,"stream":"thinking","data":{"variant":"raw","delta":" the subject"}}
+{"seq":465,"stream":"thinking","data":{"variant":"raw","delta":", meaning"}}
+{"seq":466,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":467,"stream":"thinking","data":{"variant":"raw","delta":" sheep"}}
+{"seq":468,"stream":"thinking","data":{"variant":"raw","delta":" that die"}}
+{"seq":469,"stream":"thinking","data":{"variant":"raw","delta":" are all"}}
+{"seq":470,"stream":"thinking","data":{"variant":"raw","delta":" except nine"}}
+{"seq":471,"stream":"thinking","data":{"variant":"raw","delta":".\n\nTherefore"}}
+{"seq":472,"stream":"thinking","data":{"variant":"raw","delta":", nine"}}
+{"seq":473,"stream":"thinking","data":{"variant":"raw","delta":" sheep do"}}
+{"seq":474,"stream":"thinking","data":{"variant":"raw","delta":" not die"}}
+{"seq":475,"stream":"thinking","data":{"variant":"raw","delta":", so"}}
+{"seq":476,"stream":"thinking","data":{"variant":"raw","delta":" they are"}}
+{"seq":477,"stream":"thinking","data":{"variant":"raw","delta":" left.\n\n"}}
+{"seq":478,"stream":"thinking","data":{"variant":"raw","delta":"Yes"}}
+{"seq":479,"stream":"thinking","data":{"variant":"raw","delta":".\n\nAnother"}}
+{"seq":480,"stream":"thinking","data":{"variant":"raw","delta":" way:"}}
+{"seq":481,"stream":"thinking","data":{"variant":"raw","delta":" \"all"}}
+{"seq":482,"stream":"thinking","data":{"variant":"raw","delta":" but "}}
+{"seq":483,"stream":"thinking","data":{"variant":"raw","delta":"9\""}}
+{"seq":484,"stream":"thinking","data":{"variant":"raw","delta":" modifies"}}
+{"seq":485,"stream":"thinking","data":{"variant":"raw","delta":" \"die"}}
+{"seq":486,"stream":"thinking","data":{"variant":"raw","delta":",\" so"}}
+{"seq":487,"stream":"thinking","data":{"variant":"raw","delta":" dying"}}
+{"seq":488,"stream":"thinking","data":{"variant":"raw","delta":" happens"}}
+{"seq":489,"stream":"thinking","data":{"variant":"raw","delta":" to all"}}
+{"seq":490,"stream":"thinking","data":{"variant":"raw","delta":" but nine"}}
+{"seq":491,"stream":"thinking","data":{"variant":"raw","delta":", meaning"}}
+{"seq":492,"stream":"thinking","data":{"variant":"raw","delta":" nine do"}}
+{"seq":493,"stream":"thinking","data":{"variant":"raw","delta":" not experience"}}
+{"seq":494,"stream":"thinking","data":{"variant":"raw","delta":" dying"}}
+{"seq":495,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":496,"stream":"thinking","data":{"variant":"raw","delta":"So,"}}
+{"seq":497,"stream":"thinking","data":{"variant":"raw","delta":" nine"}}
+{"seq":498,"stream":"thinking","data":{"variant":"raw","delta":" survive.\n\n"}}
+{"seq":499,"stream":"thinking","data":{"variant":"raw","delta":"Final"}}
+{"seq":500,"stream":"thinking","data":{"variant":"raw","delta":" answer should"}}
+{"seq":501,"stream":"thinking","data":{"variant":"raw","delta":" be "}}
+{"seq":502,"stream":"thinking","data":{"variant":"raw","delta":"9.\n\n"}}
+{"seq":503,"stream":"thinking","data":{"variant":"raw","delta":"But just"}}
+{"seq":504,"stream":"thinking","data":{"variant":"raw","delta":" to be"}}
+{"seq":505,"stream":"thinking","data":{"variant":"raw","delta":" thorough,"}}
+{"seq":506,"stream":"thinking","data":{"variant":"raw","delta":" let's"}}
+{"seq":507,"stream":"thinking","data":{"variant":"raw","delta":" use"}}
+{"seq":508,"stream":"thinking","data":{"variant":"raw","delta":" the initial"}}
+{"seq":509,"stream":"thinking","data":{"variant":"raw","delta":" number.\n\n"}}
+{"seq":510,"stream":"thinking","data":{"variant":"raw","delta":"Far"}}
+{"seq":511,"stream":"thinking","data":{"variant":"raw","delta":"mer has"}}
+{"seq":512,"stream":"thinking","data":{"variant":"raw","delta":" 17"}}
+{"seq":513,"stream":"thinking","data":{"variant":"raw","delta":" sheep.\n\n"}}
+{"seq":514,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":515,"stream":"thinking","data":{"variant":"raw","delta":" 9"}}
+{"seq":516,"stream":"thinking","data":{"variant":"raw","delta":" die,"}}
+{"seq":517,"stream":"thinking","data":{"variant":"raw","delta":" so the"}}
+{"seq":518,"stream":"thinking","data":{"variant":"raw","delta":" number that"}}
+{"seq":519,"stream":"thinking","data":{"variant":"raw","delta":" die is"}}
+{"seq":520,"stream":"thinking","data":{"variant":"raw","delta":" 17"}}
+{"seq":521,"stream":"thinking","data":{"variant":"raw","delta":" minus "}}
+{"seq":522,"stream":"thinking","data":{"variant":"raw","delta":"9,"}}
+{"seq":523,"stream":"thinking","data":{"variant":"raw","delta":" which is"}}
+{"seq":524,"stream":"thinking","data":{"variant":"raw","delta":" 8"}}
+{"seq":525,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":526,"stream":"thinking","data":{"variant":"raw","delta":"Then"}}
+{"seq":527,"stream":"thinking","data":{"variant":"raw","delta":", left"}}
+{"seq":528,"stream":"thinking","data":{"variant":"raw","delta":" are "}}
+{"seq":529,"stream":"thinking","data":{"variant":"raw","delta":"17 -"}}
+{"seq":530,"stream":"thinking","data":{"variant":"raw","delta":" 8"}}
+{"seq":531,"stream":"thinking","data":{"variant":"raw","delta":" = "}}
+{"seq":532,"stream":"thinking","data":{"variant":"raw","delta":"9.\n\n"}}
+{"seq":533,"stream":"thinking","data":{"variant":"raw","delta":"Or directly"}}
+{"seq":534,"stream":"thinking","data":{"variant":"raw","delta":", the"}}
+{"seq":535,"stream":"thinking","data":{"variant":"raw","delta":" survivors are"}}
+{"seq":536,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":537,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":538,"stream":"thinking","data":{"variant":"raw","delta":"but "}}
+{"seq":539,"stream":"thinking","data":{"variant":"raw","delta":"9,\""}}
+{"seq":540,"stream":"thinking","data":{"variant":"raw","delta":" so "}}
+{"seq":541,"stream":"thinking","data":{"variant":"raw","delta":"9 left"}}
+{"seq":542,"stream":"thinking","data":{"variant":"raw","delta":".\n\nYes"}}
+{"seq":543,"stream":"thinking","data":{"variant":"raw","delta":".\n\nI"}}
+{"seq":544,"stream":"thinking","data":{"variant":"raw","delta":" think it"}}
+{"seq":545,"stream":"thinking","data":{"variant":"raw","delta":"'s clear"}}
+{"seq":546,"stream":"thinking","data":{"variant":"raw","delta":".\n\nSo"}}
+{"seq":547,"stream":"thinking","data":{"variant":"raw","delta":", reasoning"}}
+{"seq":548,"stream":"thinking","data":{"variant":"raw","delta":": \""}}
+{"seq":549,"stream":"thinking","data":{"variant":"raw","delta":"All but"}}
+{"seq":550,"stream":"thinking","data":{"variant":"raw","delta":" nine die"}}
+{"seq":551,"stream":"thinking","data":{"variant":"raw","delta":"\" means"}}
+{"seq":552,"stream":"thinking","data":{"variant":"raw","delta":" nine survive"}}
+{"seq":553,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":554,"stream":"thinking","data":{"variant":"raw","delta":"Final number"}}
+{"seq":555,"stream":"thinking","data":{"variant":"raw","delta":": "}}
+{"seq":556,"stream":"thinking","data":{"variant":"raw","delta":"9\n\n"}}
+{"seq":557,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":558,"stream":"thinking","data":{"variant":"raw","delta":" question"}}
+{"seq":559,"stream":"thinking","data":{"variant":"raw","delta":" says \""}}
+{"seq":560,"stream":"thinking","data":{"variant":"raw","delta":"explain"}}
+{"seq":561,"stream":"thinking","data":{"variant":"raw","delta":" your reasoning"}}
+{"seq":562,"stream":"thinking","data":{"variant":"raw","delta":" in one"}}
+{"seq":563,"stream":"thinking","data":{"variant":"raw","delta":" short sentence"}}
+{"seq":564,"stream":"thinking","data":{"variant":"raw","delta":",\" so"}}
+{"seq":565,"stream":"thinking","data":{"variant":"raw","delta":" I need"}}
+{"seq":566,"stream":"thinking","data":{"variant":"raw","delta":" to phrase"}}
+{"seq":567,"stream":"thinking","data":{"variant":"raw","delta":" it conc"}}
+{"seq":568,"stream":"thinking","data":{"variant":"raw","delta":"isely"}}
+{"seq":569,"stream":"thinking","data":{"variant":"raw","delta":".\n"}}
+{"seq":570,"stream":"assistant","data":{"phase":"commentary","delta":"\"","status":"in_progress"}}
+{"seq":571,"stream":"assistant","data":{"phase":"commentary","delta":"All but","status":"in_progress"}}
+{"seq":572,"stream":"assistant","data":{"phase":"commentary","delta":" nine","status":"in_progress"}}
+{"seq":573,"stream":"assistant","data":{"phase":"commentary","delta":" die\"","status":"in_progress"}}
+{"seq":574,"stream":"assistant","data":{"phase":"commentary","delta":" means that","status":"in_progress"}}
+{"seq":575,"stream":"assistant","data":{"phase":"commentary","delta":" nine sheep","status":"in_progress"}}
+{"seq":576,"stream":"assistant","data":{"phase":"commentary","delta":" survive,","status":"in_progress"}}
+{"seq":577,"stream":"assistant","data":{"phase":"commentary","delta":" as","status":"in_progress"}}
+{"seq":578,"stream":"assistant","data":{"phase":"commentary","delta":" \"","status":"in_progress"}}
+{"seq":579,"stream":"assistant","data":{"phase":"commentary","delta":"all but","status":"in_progress"}}
+{"seq":580,"stream":"assistant","data":{"phase":"commentary","delta":" nine","status":"in_progress"}}
+{"seq":581,"stream":"assistant","data":{"phase":"commentary","delta":"\" refers","status":"in_progress"}}
+{"seq":582,"stream":"assistant","data":{"phase":"commentary","delta":" to the","status":"in_progress"}}
+{"seq":583,"stream":"assistant","data":{"phase":"commentary","delta":" sheep that","status":"in_progress"}}
+{"seq":584,"stream":"assistant","data":{"phase":"commentary","delta":" die,","status":"in_progress"}}
+{"seq":585,"stream":"assistant","data":{"phase":"commentary","delta":" leaving the","status":"in_progress"}}
+{"seq":586,"stream":"assistant","data":{"phase":"commentary","delta":" nine alive","status":"in_progress"}}
+{"seq":587,"stream":"assistant","data":{"phase":"commentary","delta":".  \n","status":"in_progress"}}
+{"seq":588,"stream":"assistant","data":{"phase":"commentary","delta":"9","status":"in_progress"}}
+{"seq":589,"stream":"thinking","data":{"variant":"raw","phase":"end","tokens":1028}}
+{"seq":590,"stream":"assistant","data":{"phase":"final_answer","text":"\"All but nine die\" means that nine sheep survive, as \"all but nine\" refers to the sheep that die, leaving the nine alive.  \n9","status":"completed"}}
+{"seq":591,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":37,"completion_tokens":1061,"total_tokens":1098,"cost":0.0026784,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.0026784,"upstream_inference_prompt_cost":0.0000259,"upstream_inference_completions_cost":0.0026525},"completion_tokens_details":{"reasoning_tokens":1028,"image_tokens":0,"audio_tokens":0}},"diagnostic":{"code":"native_finish_reason","detail":"stop"}}}

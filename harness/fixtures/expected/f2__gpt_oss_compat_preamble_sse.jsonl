@@ -1,0 +1,58 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"User"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":" requests"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" current"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" weather"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" in"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":" Tokyo"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" and"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" London"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":" Use"}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" function"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":" get"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":"_weather"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" twice"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":" But"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":" instruction"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" before"}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":" each"}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":" tool"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":" call"}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" briefly"}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":" tell"}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":" user"}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":" what"}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":" you"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":" are"}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":" about"}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":" do"}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":" So"}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":" respond"}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":" something"}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":" like"}}
+{"seq":39,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","delta":"Fetching"}}
+{"seq":41,"stream":"thinking","data":{"variant":"raw","delta":" weather"}}
+{"seq":42,"stream":"thinking","data":{"variant":"raw","delta":" for"}}
+{"seq":43,"stream":"thinking","data":{"variant":"raw","delta":" Tokyo"}}
+{"seq":44,"stream":"thinking","data":{"variant":"raw","delta":"..."}}
+{"seq":45,"stream":"thinking","data":{"variant":"raw","delta":"\"."}}
+{"seq":46,"stream":"thinking","data":{"variant":"raw","delta":" Then"}}
+{"seq":47,"stream":"thinking","data":{"variant":"raw","delta":" call"}}
+{"seq":48,"stream":"thinking","data":{"variant":"raw","delta":" function"}}
+{"seq":49,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":50,"stream":"thinking","data":{"variant":"raw","delta":" For"}}
+{"seq":51,"stream":"thinking","data":{"variant":"raw","delta":" London"}}
+{"seq":52,"stream":"thinking","data":{"variant":"raw","delta":" similarly"}}
+{"seq":53,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":54,"stream":"item","data":{"phase":"start","id":"call_9m7kvrb1","index":0,"kind":"tool","name":"get_weather","status":"in_progress"}}
+{"seq":55,"stream":"item","data":{"phase":"update","id":"call_9m7kvrb1","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"{\"city\":\"Tokyo\"}"}}
+{"seq":56,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":57,"stream":"item","data":{"phase":"end","id":"call_9m7kvrb1","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"city":"Tokyo"}}}
+{"seq":58,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed"}}

@@ -1,0 +1,9 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"anthropic","model":"claude-haiku-4-5-20251001","id":"msg_01WDbhAF9j1W5TFp6BryQyJ6","usage":{"input_tokens":678,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"cache_creation":{"ephemeral_5m_input_tokens":0,"ephemeral_1h_input_tokens":0},"output_tokens":5,"service_tier":"standard","inference_geo":"not_available"}}}
+{"seq":2,"stream":"item","data":{"phase":"start","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input":{}}}
+{"seq":3,"stream":"item","data":{"phase":"update","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"{\"locati"}}
+{"seq":4,"stream":"item","data":{"phase":"update","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"on\": \"San"}}
+{"seq":5,"stream":"item","data":{"phase":"update","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":" Fran"}}
+{"seq":6,"stream":"item","data":{"phase":"update","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"cisco, C"}}
+{"seq":7,"stream":"item","data":{"phase":"update","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"A\"}"}}
+{"seq":8,"stream":"item","data":{"phase":"end","id":"toolu_01VMJTmzjrZBUSVRTbgHbiaE","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"location":"San Francisco, CA"}}}
+{"seq":9,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed","usage":{"input_tokens":678,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":41}}}

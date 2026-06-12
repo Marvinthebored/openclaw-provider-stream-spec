@@ -1,0 +1,58 @@
+{"seq":1,"stream":"thinking","data":{"variant":"summary","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"summary","delta":"**Explaining the riddle**\n\nThe"}}
+{"seq":3,"stream":"thinking","data":{"variant":"summary","delta":" r"}}
+{"seq":4,"stream":"thinking","data":{"variant":"summary","delta":"iddle"}}
+{"seq":5,"stream":"thinking","data":{"variant":"summary","delta":" states"}}
+{"seq":6,"stream":"thinking","data":{"variant":"summary","delta":" that"}}
+{"seq":7,"stream":"thinking","data":{"variant":"summary","delta":" \""}}
+{"seq":8,"stream":"thinking","data":{"variant":"summary","delta":"All"}}
+{"seq":9,"stream":"thinking","data":{"variant":"summary","delta":" but"}}
+{"seq":10,"stream":"thinking","data":{"variant":"summary","delta":" 9"}}
+{"seq":11,"stream":"thinking","data":{"variant":"summary","delta":" die"}}
+{"seq":12,"stream":"thinking","data":{"variant":"summary","delta":",\""}}
+{"seq":13,"stream":"thinking","data":{"variant":"summary","delta":" which"}}
+{"seq":14,"stream":"thinking","data":{"variant":"summary","delta":" means"}}
+{"seq":15,"stream":"thinking","data":{"variant":"summary","delta":" that"}}
+{"seq":16,"stream":"thinking","data":{"variant":"summary","delta":" 9"}}
+{"seq":17,"stream":"thinking","data":{"variant":"summary","delta":" individuals"}}
+{"seq":18,"stream":"thinking","data":{"variant":"summary","delta":" remain"}}
+{"seq":19,"stream":"thinking","data":{"variant":"summary","delta":" alive"}}
+{"seq":20,"stream":"thinking","data":{"variant":"summary","delta":"."}}
+{"seq":21,"stream":"thinking","data":{"variant":"summary","delta":" So"}}
+{"seq":22,"stream":"thinking","data":{"variant":"summary","delta":","}}
+{"seq":23,"stream":"thinking","data":{"variant":"summary","delta":" I'll"}}
+{"seq":24,"stream":"thinking","data":{"variant":"summary","delta":" keep"}}
+{"seq":25,"stream":"thinking","data":{"variant":"summary","delta":" the"}}
+{"seq":26,"stream":"thinking","data":{"variant":"summary","delta":" explanation"}}
+{"seq":27,"stream":"thinking","data":{"variant":"summary","delta":" concise"}}
+{"seq":28,"stream":"thinking","data":{"variant":"summary","delta":" and"}}
+{"seq":29,"stream":"thinking","data":{"variant":"summary","delta":" finish"}}
+{"seq":30,"stream":"thinking","data":{"variant":"summary","delta":" with"}}
+{"seq":31,"stream":"thinking","data":{"variant":"summary","delta":" the"}}
+{"seq":32,"stream":"thinking","data":{"variant":"summary","delta":" final"}}
+{"seq":33,"stream":"thinking","data":{"variant":"summary","delta":" number"}}
+{"seq":34,"stream":"thinking","data":{"variant":"summary","delta":"."}}
+{"seq":35,"stream":"thinking","data":{"variant":"summary","delta":" The"}}
+{"seq":36,"stream":"thinking","data":{"variant":"summary","delta":" answer"}}
+{"seq":37,"stream":"thinking","data":{"variant":"summary","delta":" is"}}
+{"seq":38,"stream":"thinking","data":{"variant":"summary","delta":" 9"}}
+{"seq":39,"stream":"thinking","data":{"variant":"summary","delta":"."}}
+{"seq":40,"stream":"assistant","data":{"phase":"commentary","delta":"All","status":"in_progress"}}
+{"seq":41,"stream":"assistant","data":{"phase":"commentary","delta":" but","status":"in_progress"}}
+{"seq":42,"stream":"assistant","data":{"phase":"commentary","delta":" nine","status":"in_progress"}}
+{"seq":43,"stream":"assistant","data":{"phase":"commentary","delta":" die","status":"in_progress"}}
+{"seq":44,"stream":"assistant","data":{"phase":"commentary","delta":" means","status":"in_progress"}}
+{"seq":45,"stream":"assistant","data":{"phase":"commentary","delta":" nine","status":"in_progress"}}
+{"seq":46,"stream":"assistant","data":{"phase":"commentary","delta":" sheep","status":"in_progress"}}
+{"seq":47,"stream":"assistant","data":{"phase":"commentary","delta":" remain","status":"in_progress"}}
+{"seq":48,"stream":"assistant","data":{"phase":"commentary","delta":" alive","status":"in_progress"}}
+{"seq":49,"stream":"assistant","data":{"phase":"commentary","delta":".","status":"in_progress"}}
+{"seq":50,"stream":"assistant","data":{"phase":"commentary","delta":"  \n","status":"in_progress"}}
+{"seq":51,"stream":"assistant","data":{"phase":"commentary","delta":"Final","status":"in_progress"}}
+{"seq":52,"stream":"assistant","data":{"phase":"commentary","delta":" number","status":"in_progress"}}
+{"seq":53,"stream":"assistant","data":{"phase":"commentary","delta":":","status":"in_progress"}}
+{"seq":54,"stream":"assistant","data":{"phase":"commentary","delta":" ","status":"in_progress"}}
+{"seq":55,"stream":"assistant","data":{"phase":"commentary","delta":"9","status":"in_progress"}}
+{"seq":56,"stream":"thinking","data":{"variant":"summary","phase":"end","tokens":52}}
+{"seq":57,"stream":"assistant","data":{"phase":"final_answer","text":"All but nine die means nine sheep remain alive.  \nFinal number: 9","status":"completed"}}
+{"seq":58,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":38,"completion_tokens":60,"total_tokens":98,"cost":0.0001295,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.0001295,"upstream_inference_prompt_cost":0.0000095,"upstream_inference_completions_cost":0.00012},"completion_tokens_details":{"reasoning_tokens":52,"image_tokens":0,"audio_tokens":0}},"diagnostic":{"code":"native_finish_reason","detail":"completed"}}}

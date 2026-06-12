@@ -1,0 +1,20 @@
+{
+  "name": "provider-content-conformance-harness",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.3.0",
+  "scripts": {
+    "bootstrap": "tsx tools/bootstrap.ts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "vitest": "^4.0.15"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}

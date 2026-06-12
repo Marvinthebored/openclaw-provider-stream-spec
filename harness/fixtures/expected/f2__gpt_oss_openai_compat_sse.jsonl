@@ -1,0 +1,62 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":" user"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" asks"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":"What"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":"?"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":" Think"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" briefly"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":";"}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":" with"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":" just"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":".\"\n\n"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":"We"}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":" need"}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":" compute"}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":39,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":41,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":42,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":43,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":44,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":45,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":46,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":47,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":48,"stream":"thinking","data":{"variant":"raw","delta":" sum"}}
+{"seq":49,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":50,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":51,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":52,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":53,"stream":"thinking","data":{"variant":"raw","delta":" So"}}
+{"seq":54,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":55,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":56,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":57,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":58,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":59,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":60,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":61,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":62,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed"}}

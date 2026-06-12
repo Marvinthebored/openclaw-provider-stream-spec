@@ -1,0 +1,42 @@
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":"We"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" must"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" use"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" the"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" get"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":"_weather"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" tool"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" to"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" get"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" weather"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" in"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" Tokyo"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":"."},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" Let's"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" craft"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" a"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" function"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":" call"},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","reasoning":"."},"finish_reason":null}]}
+
+data: {"id":"chatcmpl-458","object":"chat.completion.chunk","created":1781236510,"model":"gpt-oss:20b","system_fingerprint":"fp_ollama","choices":[{"index":0,"delta":{"role":"assistant","content":"","tool_calls":[{"id":"call_rzfnzfkl","index":0,"type":"function","function":{"name":"get_weather","arguments":"{\"city\":\"Tokyo\"}"}}]},"finish_reason":"tool_calls"}]}
+
+data: [DONE]
+

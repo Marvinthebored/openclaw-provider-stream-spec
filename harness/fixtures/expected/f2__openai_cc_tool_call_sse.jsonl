@@ -1,0 +1,10 @@
+{"seq":1,"stream":"item","data":{"phase":"start","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress"}}
+{"seq":2,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"{\""}}
+{"seq":3,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"location"}}
+{"seq":4,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"\":\""}}
+{"seq":5,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"Boston"}}
+{"seq":6,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":","}}
+{"seq":7,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":" MA"}}
+{"seq":8,"stream":"item","data":{"phase":"update","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"\"}"}}
+{"seq":9,"stream":"item","data":{"phase":"end","id":"call_jsXiqKXCwnuFZqhqQCMXPAwZ","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"location":"Boston, MA"}}}
+{"seq":10,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed","usage":{"prompt_tokens":75,"completion_tokens":16,"total_tokens":91,"prompt_tokens_details":{"cached_tokens":0,"audio_tokens":0},"completion_tokens_details":{"reasoning_tokens":0,"audio_tokens":0,"accepted_prediction_tokens":0,"rejected_prediction_tokens":0}}}}

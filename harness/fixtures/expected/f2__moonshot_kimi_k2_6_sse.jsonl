@@ -1,0 +1,216 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":" user"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" asking"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" for"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" product"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" of"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" and"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":" They"}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":" want"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":" me"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" think"}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":" briefly"}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":" and"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":" with"}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" just"}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":"Let"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":" me"}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":" calculate"}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":".\n"}}
+{"seq":39,"stream":"thinking","data":{"variant":"raw","delta":"I"}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","delta":" can"}}
+{"seq":41,"stream":"thinking","data":{"variant":"raw","delta":" do"}}
+{"seq":42,"stream":"thinking","data":{"variant":"raw","delta":" this"}}
+{"seq":43,"stream":"thinking","data":{"variant":"raw","delta":" as"}}
+{"seq":44,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":45,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":46,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":47,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":48,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":49,"stream":"thinking","data":{"variant":"raw","delta":" +"}}
+{"seq":50,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":51,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":52,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":53,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":54,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":55,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":56,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":57,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":58,"stream":"thinking","data":{"variant":"raw","delta":" +"}}
+{"seq":59,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":60,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":61,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":62,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":63,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":64,"stream":"thinking","data":{"variant":"raw","delta":".\n"}}
+{"seq":65,"stream":"thinking","data":{"variant":"raw","delta":"Or"}}
+{"seq":66,"stream":"thinking","data":{"variant":"raw","delta":" I"}}
+{"seq":67,"stream":"thinking","data":{"variant":"raw","delta":" can"}}
+{"seq":68,"stream":"thinking","data":{"variant":"raw","delta":" note"}}
+{"seq":69,"stream":"thinking","data":{"variant":"raw","delta":" that"}}
+{"seq":70,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":71,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":72,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":73,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":74,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":75,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":76,"stream":"thinking","data":{"variant":"raw","delta":" ("}}
+{"seq":77,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":78,"stream":"thinking","data":{"variant":"raw","delta":"-"}}
+{"seq":79,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":80,"stream":"thinking","data":{"variant":"raw","delta":")("}}
+{"seq":81,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":82,"stream":"thinking","data":{"variant":"raw","delta":"+"}}
+{"seq":83,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":84,"stream":"thinking","data":{"variant":"raw","delta":")"}}
+{"seq":85,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":86,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":87,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":88,"stream":"thinking","data":{"variant":"raw","delta":"²"}}
+{"seq":89,"stream":"thinking","data":{"variant":"raw","delta":" -"}}
+{"seq":90,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":91,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":92,"stream":"thinking","data":{"variant":"raw","delta":"²"}}
+{"seq":93,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":94,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":95,"stream":"thinking","data":{"variant":"raw","delta":"400"}}
+{"seq":96,"stream":"thinking","data":{"variant":"raw","delta":" -"}}
+{"seq":97,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":98,"stream":"thinking","data":{"variant":"raw","delta":"9"}}
+{"seq":99,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":100,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":101,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":102,"stream":"thinking","data":{"variant":"raw","delta":".\n"}}
+{"seq":103,"stream":"thinking","data":{"variant":"raw","delta":"Wait"}}
+{"seq":104,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":105,"stream":"thinking","data":{"variant":"raw","delta":" that's"}}
+{"seq":106,"stream":"thinking","data":{"variant":"raw","delta":" not"}}
+{"seq":107,"stream":"thinking","data":{"variant":"raw","delta":" right"}}
+{"seq":108,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":109,"stream":"thinking","data":{"variant":"raw","delta":" ("}}
+{"seq":110,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":111,"stream":"thinking","data":{"variant":"raw","delta":"-"}}
+{"seq":112,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":113,"stream":"thinking","data":{"variant":"raw","delta":")("}}
+{"seq":114,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":115,"stream":"thinking","data":{"variant":"raw","delta":"+"}}
+{"seq":116,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":117,"stream":"thinking","data":{"variant":"raw","delta":")"}}
+{"seq":118,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":119,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":120,"stream":"thinking","data":{"variant":"raw","delta":"400"}}
+{"seq":121,"stream":"thinking","data":{"variant":"raw","delta":" -"}}
+{"seq":122,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":123,"stream":"thinking","data":{"variant":"raw","delta":"9"}}
+{"seq":124,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":125,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":126,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":127,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":128,"stream":"thinking","data":{"variant":"raw","delta":" Yes"}}
+{"seq":129,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":130,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":131,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":132,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":133,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":134,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":135,"stream":"thinking","data":{"variant":"raw","delta":"-"}}
+{"seq":136,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":137,"stream":"thinking","data":{"variant":"raw","delta":" and"}}
+{"seq":138,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":139,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":140,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":141,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":142,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":143,"stream":"thinking","data":{"variant":"raw","delta":"+"}}
+{"seq":144,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":145,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":146,"stream":"thinking","data":{"variant":"raw","delta":" So"}}
+{"seq":147,"stream":"thinking","data":{"variant":"raw","delta":" it's"}}
+{"seq":148,"stream":"thinking","data":{"variant":"raw","delta":" a"}}
+{"seq":149,"stream":"thinking","data":{"variant":"raw","delta":" difference"}}
+{"seq":150,"stream":"thinking","data":{"variant":"raw","delta":" of"}}
+{"seq":151,"stream":"thinking","data":{"variant":"raw","delta":" squares"}}
+{"seq":152,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":153,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":154,"stream":"thinking","data":{"variant":"raw","delta":"400"}}
+{"seq":155,"stream":"thinking","data":{"variant":"raw","delta":" -"}}
+{"seq":156,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":157,"stream":"thinking","data":{"variant":"raw","delta":"9"}}
+{"seq":158,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":159,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":160,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":161,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":162,"stream":"thinking","data":{"variant":"raw","delta":"Let"}}
+{"seq":163,"stream":"thinking","data":{"variant":"raw","delta":" me"}}
+{"seq":164,"stream":"thinking","data":{"variant":"raw","delta":" verify"}}
+{"seq":165,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":166,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":167,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":168,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":169,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":170,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":171,"stream":"thinking","data":{"variant":"raw","delta":".\n"}}
+{"seq":172,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":173,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":174,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":175,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":176,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":177,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":178,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":179,"stream":"thinking","data":{"variant":"raw","delta":"\n"}}
+{"seq":180,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":181,"stream":"thinking","data":{"variant":"raw","delta":" ×"}}
+{"seq":182,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":183,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":184,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":185,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":186,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":187,"stream":"thinking","data":{"variant":"raw","delta":"\n"}}
+{"seq":188,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":189,"stream":"thinking","data":{"variant":"raw","delta":" +"}}
+{"seq":190,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":191,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":192,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":193,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":194,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":195,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":196,"stream":"thinking","data":{"variant":"raw","delta":"Yes"}}
+{"seq":197,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":198,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":199,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":200,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":201,"stream":"thinking","data":{"variant":"raw","delta":" correct"}}
+{"seq":202,"stream":"thinking","data":{"variant":"raw","delta":".\n\n"}}
+{"seq":203,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":204,"stream":"thinking","data":{"variant":"raw","delta":" user"}}
+{"seq":205,"stream":"thinking","data":{"variant":"raw","delta":" wants"}}
+{"seq":206,"stream":"thinking","data":{"variant":"raw","delta":" just"}}
+{"seq":207,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":208,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":209,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":210,"stream":"thinking","data":{"variant":"raw","delta":" no"}}
+{"seq":211,"stream":"thinking","data":{"variant":"raw","delta":" explanation"}}
+{"seq":212,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":213,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":214,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":215,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":216,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":23,"completion_tokens":215,"total_tokens":238}}}

@@ -1,0 +1,8 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"\""}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":"All but 9 die\" means all except 9 die, so 9 remain."}}
+{"seq":4,"stream":"assistant","data":{"phase":"commentary","delta":"\"All but 9\" means all *except* 9 die, so 9 sheep survive","status":"in_progress"}}
+{"seq":5,"stream":"assistant","data":{"phase":"commentary","delta":".\n\n**9**","status":"in_progress"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","phase":"end","tokens":13}}
+{"seq":7,"stream":"assistant","data":{"phase":"final_answer","text":"\"All but 9\" means all *except* 9 die, so 9 sheep survive.\n\n**9**","status":"completed"}}
+{"seq":8,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":71,"completion_tokens":60,"total_tokens":131,"cost":0.001113,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.001113,"upstream_inference_prompt_cost":0.000213,"upstream_inference_completions_cost":0.0009},"completion_tokens_details":{"reasoning_tokens":13,"image_tokens":0,"audio_tokens":0}},"diagnostic":{"code":"native_finish_reason","detail":"end_turn"}}}

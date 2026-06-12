@@ -1,0 +1,25 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"We"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":" must"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" use"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" get"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":"_weather"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" tool"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":" get"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":" weather"}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" in"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":" Tokyo"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" Let's"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":" craft"}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":" a"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":" function"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":" call"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":21,"stream":"item","data":{"phase":"start","id":"call_rzfnzfkl","index":0,"kind":"tool","name":"get_weather","status":"in_progress"}}
+{"seq":22,"stream":"item","data":{"phase":"update","id":"call_rzfnzfkl","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input_delta":"{\"city\":\"Tokyo\"}"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":24,"stream":"item","data":{"phase":"end","id":"call_rzfnzfkl","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"city":"Tokyo"}}}
+{"seq":25,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed"}}

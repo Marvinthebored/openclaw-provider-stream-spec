@@ -1,0 +1,42 @@
+{"seq":1,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","delta":"We"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":" need"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" compute"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" *"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" plus"}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":" total"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":" So"}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":39,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":41,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":42,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":20,"completion_tokens":39,"total_tokens":59,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":37},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":20}}}

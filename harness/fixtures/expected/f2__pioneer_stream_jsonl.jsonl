@@ -1,0 +1,5 @@
+{"seq":1,"stream":"assistant","data":{"phase":"commentary","delta":"cap","status":"in_progress"}}
+{"seq":2,"stream":"assistant","data":{"phase":"commentary","delta":"ture-ok","status":"in_progress"}}
+{"seq":3,"stream":"assistant","data":{"phase":"final_answer","text":"capture-ok","status":"completed"}}
+{"seq":4,"stream":"lifecycle","data":{"phase":"update","diagnostic":{"code":"pioneer_metadata","detail":{"inference_id":"95d0e7cc-8f86-4187-83a0-518f64aa189f"}}}}
+{"seq":5,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":19,"completion_tokens":7,"total_tokens":26}}}

@@ -1,0 +1,4 @@
+{"seq":1,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":2,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":3,"stream":"lifecycle","data":{"phase":"update","diagnostic":{"code":"pioneer_metadata","detail":{"inference_id":"51b1ed52-3bd1-4fe7-a13c-f988f052f2a5"}}}}
+{"seq":4,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"prompt_tokens":26,"completion_tokens":3,"total_tokens":29}}}

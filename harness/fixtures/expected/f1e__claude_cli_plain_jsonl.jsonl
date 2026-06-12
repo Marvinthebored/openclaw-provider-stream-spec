@@ -1,0 +1,8 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"claude-cli","model":"claude-fable-5","id":"00000000-0000-0000-0000-000000000000","diagnostic":{"code":"claude_cli_init","detail":{"cwd":"/redacted","claude_code_version":"2.1.173","permissionMode":"default"}}}}
+{"seq":2,"stream":"lifecycle","data":{"phase":"update","diagnostic":{"code":"claude_cli_status","detail":{"status":"requesting"}}}}
+{"seq":3,"stream":"lifecycle","data":{"phase":"update","diagnostic":{"code":"rate_limit_event","detail":{"status":"allowed","resetsAt":1781226000,"rateLimitType":"five_hour","overageStatus":"rejected","overageDisabledReason":"org_level_disabled","isUsingOverage":false}}}}
+{"seq":4,"stream":"thinking","data":{"id":"0","variant":"redacted","phase":"start"}}
+{"seq":5,"stream":"thinking","data":{"id":"0","variant":"redacted","phase":"end","tokens":19}}
+{"seq":6,"stream":"assistant","data":{"id":"1","phase":"commentary","delta":"capture-ok","status":"in_progress"}}
+{"seq":7,"stream":"assistant","data":{"phase":"final_answer","text":"capture-ok","status":"completed"}}
+{"seq":8,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"input_tokens":2330,"cache_creation_input_tokens":7329,"cache_read_input_tokens":8155,"output_tokens":26,"server_tool_use":{"web_search_requests":0,"web_fetch_requests":0},"service_tier":"standard","cache_creation":{"ephemeral_1h_input_tokens":7329,"ephemeral_5m_input_tokens":0},"inference_geo":"not_available","iterations":[{"input_tokens":2330,"output_tokens":26,"cache_read_input_tokens":8155,"cache_creation_input_tokens":7329,"cache_creation":{"ephemeral_5m_input_tokens":0,"ephemeral_1h_input_tokens":7329},"type":"message"}],"speed":"standard"}}}

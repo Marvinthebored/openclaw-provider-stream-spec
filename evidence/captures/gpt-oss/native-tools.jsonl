@@ -1,0 +1,15 @@
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.265142Z","message":{"role":"assistant","content":"","thinking":"We"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.281551Z","message":{"role":"assistant","content":"","thinking":" need"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.30241Z","message":{"role":"assistant","content":"","thinking":" to"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.323824Z","message":{"role":"assistant","content":"","thinking":" use"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.339497Z","message":{"role":"assistant","content":"","thinking":" the"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.356066Z","message":{"role":"assistant","content":"","thinking":" get"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.372477Z","message":{"role":"assistant","content":"","thinking":"_weather"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.389229Z","message":{"role":"assistant","content":"","thinking":" function"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.405942Z","message":{"role":"assistant","content":"","thinking":"."},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.422162Z","message":{"role":"assistant","content":"","thinking":" Provide"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.438475Z","message":{"role":"assistant","content":"","thinking":" a"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.455087Z","message":{"role":"assistant","content":"","thinking":" JSON"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.471692Z","message":{"role":"assistant","content":"","thinking":" call"},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.488124Z","message":{"role":"assistant","content":"","thinking":"."},"done":false}
+{"model":"gpt-oss:20b","created_at":"2026-06-12T03:55:07.839607Z","message":{"role":"assistant","content":"","tool_calls":[{"id":"call_sx9bzbjd","function":{"index":0,"name":"get_weather","arguments":{"city":"Tokyo"}}}]},"done":true,"done_reason":"stop","total_duration":955450375,"load_duration":128562708,"prompt_eval_count":134,"prompt_eval_duration":196095000,"eval_count":38,"eval_duration":609822376}

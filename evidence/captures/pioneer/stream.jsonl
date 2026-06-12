@@ -1,0 +1,4 @@
+{"id": "chatcmpl-cc0e9ee7d63648048baf34cd", "object": "chat.completion.chunk", "created": 1781228972, "model": "claude-opus-4-8", "choices": [{"index": 0, "delta": {"content": "cap"}, "finish_reason": null}]}
+{"id": "chatcmpl-cc0e9ee7d63648048baf34cd", "object": "chat.completion.chunk", "created": 1781228972, "model": "claude-opus-4-8", "choices": [{"index": 0, "delta": {"content": "ture-ok"}, "finish_reason": "stop"}]}
+{"id": "chatcmpl-cc0e9ee7d63648048baf34cd", "object": "chat.completion.chunk", "created": 1781228972, "model": "claude-opus-4-8", "choices": [{"index": 0, "delta": {}, "finish_reason": null}], "x_pioneer": {"inference_id": "95d0e7cc-8f86-4187-83a0-518f64aa189f"}}
+{"id": "chatcmpl-cc0e9ee7d63648048baf34cd", "object": "chat.completion.chunk", "created": 1781228972, "model": "claude-opus-4-8", "choices": [], "usage": {"prompt_tokens": 19, "completion_tokens": 7, "total_tokens": 26}}
