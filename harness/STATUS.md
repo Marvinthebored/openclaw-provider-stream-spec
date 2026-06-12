@@ -2,20 +2,17 @@
 
 Implemented:
 
-- Harness package with `pnpm`, `vitest`, and `tsx` scripts; no runtime/OpenClaw deps.
-- Normalized event types, replay parser, adapter accounting, invariant checks, bootstrap fixture generator, and vitest tests.
+- Harness package with npm, Vitest, direct-Node bootstrap, normalized event types, replay parser, adapter accounting, invariant checks, fixture generator, and conformance tests.
 - F1 Anthropic SSE adapter: text, raw/redacted thinking, signature transcript, tool-use items, usage/thinking-token backfill, finality dispatch.
 - F1e Claude CLI envelope: system/status/rate-limit diagnostics, inner F1 progress, snapshot signature transcript, `result.result` as the single final-answer source.
 - F2 Chat Completions adapter: flat and structured reasoning, structured-wins dedup, OpenRouter signatures/encrypted transcript, null-content handling, tool calls, optional `[DONE]`, all documented usage locations, and section 3.5 dispatch.
-- Expected fixtures generated for 17 implemented F1/F1e/F2 goldens.
-
-Stubbed:
-
-- F3 Responses adapter: TODO stub emits unsupported-frame diagnostics plus terminal error.
-- F5 Gemini adapter: TODO stub emits unsupported-frame diagnostics plus terminal error.
+- F3 OpenAI Responses adapter: lifecycle start/update/drop handling, output text/refusal segments keyed as `item_id:content_index`, reasoning raw/summary/redacted lanes, encrypted reasoning transcript, function-call items, completed/failed/incomplete dispatch, usage/thinking-token backfill, and stream-closed synthesis.
+- F5 Gemini GenAI SSE adapter: `thought:true` parts as thinking `summary`, `thoughtSignature` transcript side-channel, function-call item start/end, cumulative `usageMetadata`, finishReason dispatch for STOP/MAX_TOKENS/SAFETY/RECITATION/OTHER/MALFORMED_FUNCTION_CALL, and stream-closed synthesis.
+- Ollama-native `/api/chat` envelope adapter for gpt-oss captures: `message.thinking` raw thinking, `message.content` final text, object-form `tool_calls[].function.arguments`, native usage/perf stats, and tool-use terminal dispatch.
+- Expected fixtures generated for all 26 implemented goldens.
 
 Verification:
 
-- `node tools/bootstrap.ts` passes and regenerates all implemented fixtures.
-- Direct Node replay-vs-fixture smoke passes for all 17 implemented goldens.
-- `pnpm install`, `pnpm bootstrap`, and `pnpm test` are blocked in this sandbox by `EPERM` registry fetch failures for `vitest`/`tsx` dependencies, so the vitest runner itself could not be executed here.
+- `npm install` passes.
+- `npm run bootstrap` passes and regenerates all expected fixtures. The bootstrap script uses `node tools/bootstrap.ts` because `tsx` cannot open its IPC pipe in this sandbox.
+- `npx vitest run` passes: 1 test file, 35 tests.

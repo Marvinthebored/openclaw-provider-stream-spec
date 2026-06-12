@@ -1,0 +1,8 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"gemini","model":"gemini-2.5-flash","id":"FWYravX3EPqmjuMPisHpuAU"}}
+{"seq":2,"stream":"thinking","data":{"variant":"summary","phase":"start"}}
+{"seq":3,"stream":"thinking","data":{"variant":"summary","delta":"**Calculating the Product**\n\nI'm working on quickly calculating 17 times 23. My approach involves breaking down one of the numbers to simplify the multiplication. I'm focusing on mental math for a rapid response.\n\n\n"}}
+{"seq":4,"stream":"thinking","data":{"variant":"summary","delta":"**Confirming the Result**\n\nI've verified the answer is 391 using multiple calculation approaches. I tried breaking down the numbers and also mental vertical multiplication to ensure accuracy. The breakdown method with the smaller number is faster.\n\n\n"}}
+{"seq":5,"stream":"thinking","data":{"variant":"summary","phase":"end","tokens":282}}
+{"seq":6,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":7,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":8,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"promptTokenCount":18,"candidatesTokenCount":1,"totalTokenCount":301,"promptTokensDetails":[{"modality":"TEXT","tokenCount":18}],"thoughtsTokenCount":282,"serviceTier":"standard"}}}

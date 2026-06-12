@@ -1,0 +1,4 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"openai","model":"o4-mini-2025-04-16","id":"resp_0ba5a30cc7ed8b19006a2b862ac440819b90e0ca38bbe498c2","usage":null}}
+{"seq":2,"stream":"assistant","data":{"id":"msg_0ba5a30cc7ed8b19006a2b862d7ab8819b9870a5e14e8536de:0","phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":3,"stream":"assistant","data":{"id":"msg_0ba5a30cc7ed8b19006a2b862d7ab8819b9870a5e14e8536de:0","phase":"final_answer","text":"391","status":"completed"}}
+{"seq":4,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"input_tokens":22,"input_tokens_details":{"cached_tokens":0},"output_tokens":49,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":71}}}

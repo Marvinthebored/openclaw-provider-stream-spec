@@ -1,0 +1,15 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"ollama","model":"gpt-oss:20b"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":"Compute"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":13,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":14,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":15,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"done_reason":"stop","total_duration":695539834,"load_duration":206917209,"prompt_eval_count":83,"prompt_eval_duration":172643125,"eval_count":20,"eval_duration":304279207}}}

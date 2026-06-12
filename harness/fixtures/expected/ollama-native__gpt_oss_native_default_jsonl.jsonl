@@ -1,0 +1,59 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"ollama","model":"gpt-oss:20b"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":"The"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" user"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" asks"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":" \""}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":"What"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":" is"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":"?"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" Think"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":" briefly"}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","delta":";"}}
+{"seq":18,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":19,"stream":"thinking","data":{"variant":"raw","delta":" with"}}
+{"seq":20,"stream":"thinking","data":{"variant":"raw","delta":" just"}}
+{"seq":21,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":22,"stream":"thinking","data":{"variant":"raw","delta":" number"}}
+{"seq":23,"stream":"thinking","data":{"variant":"raw","delta":".\""}}
+{"seq":24,"stream":"thinking","data":{"variant":"raw","delta":" Compute"}}
+{"seq":25,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":26,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":27,"stream":"thinking","data":{"variant":"raw","delta":" *"}}
+{"seq":28,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":29,"stream":"thinking","data":{"variant":"raw","delta":"23"}}
+{"seq":30,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":31,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":32,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":33,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":34,"stream":"thinking","data":{"variant":"raw","delta":"20"}}
+{"seq":35,"stream":"thinking","data":{"variant":"raw","delta":"="}}
+{"seq":36,"stream":"thinking","data":{"variant":"raw","delta":"340"}}
+{"seq":37,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":38,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":39,"stream":"thinking","data":{"variant":"raw","delta":"17"}}
+{"seq":40,"stream":"thinking","data":{"variant":"raw","delta":"*"}}
+{"seq":41,"stream":"thinking","data":{"variant":"raw","delta":"3"}}
+{"seq":42,"stream":"thinking","data":{"variant":"raw","delta":"="}}
+{"seq":43,"stream":"thinking","data":{"variant":"raw","delta":"51"}}
+{"seq":44,"stream":"thinking","data":{"variant":"raw","delta":","}}
+{"seq":45,"stream":"thinking","data":{"variant":"raw","delta":" sum"}}
+{"seq":46,"stream":"thinking","data":{"variant":"raw","delta":" ="}}
+{"seq":47,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":48,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":49,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":50,"stream":"thinking","data":{"variant":"raw","delta":" So"}}
+{"seq":51,"stream":"thinking","data":{"variant":"raw","delta":" answer"}}
+{"seq":52,"stream":"thinking","data":{"variant":"raw","delta":":"}}
+{"seq":53,"stream":"thinking","data":{"variant":"raw","delta":" "}}
+{"seq":54,"stream":"thinking","data":{"variant":"raw","delta":"391"}}
+{"seq":55,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":56,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":57,"stream":"assistant","data":{"phase":"commentary","delta":"391","status":"in_progress"}}
+{"seq":58,"stream":"assistant","data":{"phase":"final_answer","text":"391","status":"completed"}}
+{"seq":59,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"done_reason":"stop","total_duration":17349139792,"load_duration":14447890542,"prompt_eval_count":83,"prompt_eval_duration":951034583,"eval_count":64,"eval_duration":1521924539}}}

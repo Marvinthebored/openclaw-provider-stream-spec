@@ -40,13 +40,19 @@ export const goldens: Golden[] = [
   golden("f2 gpt oss openai compat", "f2", "../evidence/captures/gpt-oss/openai-compat.sse", implemented),
   golden("f2 gpt oss openai compat tools", "f2", "../evidence/captures/gpt-oss/openai-compat-tools.sse", implemented),
   golden("f2 gpt oss compat preamble", "f2", "../evidence/captures/gpt-oss/compat-preamble.sse", implemented),
+  golden("ollama native default", "ollama-native", "../evidence/captures/gpt-oss/native-default.jsonl", implemented),
+  golden("ollama native think low", "ollama-native", "../evidence/captures/gpt-oss/native-think-low.jsonl", implemented),
+  golden("ollama native tools", "ollama-native", "../evidence/captures/gpt-oss/native-tools.jsonl", implemented),
+  golden("ollama native preamble", "ollama-native", "../evidence/captures/gpt-oss/native-preamble.jsonl", implemented),
   golden("f2 openai cc tool call", "f2", "../evidence/captures/openai/cc-tool-call.sse", implemented),
 
-  golden("f3 openai responses reasoning", "f3", "../evidence/captures/openai/responses-reasoning.sse", pending),
-  golden("f3 openai responses reasoning o4 mini", "f3", "../evidence/captures/openai/responses-reasoning-o4-mini.sse", pending),
-  golden("f5 gemini thinking", "f5", "../evidence/captures/gemini/gemini-2.5-flash-thinking.sse", pending),
-  golden("f5 gemini thinking long", "f5", "../evidence/captures/gemini/gemini-2.5-flash-thinking-long.sse", pending),
-  golden("f5 gemini tool thinking", "f5", "../evidence/captures/gemini/gemini-2.5-flash-tool-thinking.sse", pending)
+  golden("f3 openai responses reasoning", "f3", "../evidence/captures/openai/responses-reasoning.sse", implemented),
+  golden("f3 openai responses reasoning o4 mini", "f3", "../evidence/captures/openai/responses-reasoning-o4-mini.sse", implemented),
+  golden("f5 gemini thinking", "f5", "../evidence/captures/gemini/gemini-2.5-flash-thinking.sse", implemented),
+  golden("f5 gemini thinking long", "f5", "../evidence/captures/gemini/gemini-2.5-flash-thinking-long.sse", implemented),
+  golden("f5 gemini tool thinking", "f5", "../evidence/captures/gemini/gemini-2.5-flash-tool-thinking.sse", implemented, [
+    "gemini_thought_signature"
+  ])
 ];
 
 export const implementedGoldens = goldens.filter((entry) => entry.implemented);

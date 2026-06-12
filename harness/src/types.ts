@@ -1,4 +1,4 @@
-export type AdapterId = "f1" | "f1e" | "f2" | "f3" | "f5";
+export type AdapterId = "f1" | "f1e" | "f2" | "f3" | "f5" | "ollama-native";
 
 export type StreamName = "assistant" | "thinking" | "item" | "lifecycle";
 

@@ -1,0 +1,20 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"ollama","model":"gpt-oss:20b"}}
+{"seq":2,"stream":"thinking","data":{"variant":"raw","phase":"start"}}
+{"seq":3,"stream":"thinking","data":{"variant":"raw","delta":"We"}}
+{"seq":4,"stream":"thinking","data":{"variant":"raw","delta":" need"}}
+{"seq":5,"stream":"thinking","data":{"variant":"raw","delta":" to"}}
+{"seq":6,"stream":"thinking","data":{"variant":"raw","delta":" use"}}
+{"seq":7,"stream":"thinking","data":{"variant":"raw","delta":" the"}}
+{"seq":8,"stream":"thinking","data":{"variant":"raw","delta":" get"}}
+{"seq":9,"stream":"thinking","data":{"variant":"raw","delta":"_weather"}}
+{"seq":10,"stream":"thinking","data":{"variant":"raw","delta":" function"}}
+{"seq":11,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":12,"stream":"thinking","data":{"variant":"raw","delta":" Provide"}}
+{"seq":13,"stream":"thinking","data":{"variant":"raw","delta":" a"}}
+{"seq":14,"stream":"thinking","data":{"variant":"raw","delta":" JSON"}}
+{"seq":15,"stream":"thinking","data":{"variant":"raw","delta":" call"}}
+{"seq":16,"stream":"thinking","data":{"variant":"raw","delta":"."}}
+{"seq":17,"stream":"thinking","data":{"variant":"raw","phase":"end"}}
+{"seq":18,"stream":"item","data":{"phase":"start","id":"call_sx9bzbjd","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input":{"city":"Tokyo"}}}
+{"seq":19,"stream":"item","data":{"phase":"end","id":"call_sx9bzbjd","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"city":"Tokyo"}}}
+{"seq":20,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed","usage":{"done_reason":"stop","total_duration":955450375,"load_duration":128562708,"prompt_eval_count":134,"prompt_eval_duration":196095000,"eval_count":38,"eval_duration":609822376}}}

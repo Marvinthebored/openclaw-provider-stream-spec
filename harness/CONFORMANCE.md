@@ -1,9 +1,7 @@
 # Conformance Results
 
-Legend: `P` = pass; `TODO` = adapter stubbed/not run. Results below come from
-`node tools/bootstrap.ts` plus a direct replay-vs-fixture smoke over all implemented
-goldens. `pnpm test` could not execute in this sandbox because `vitest`/`tsx` could not
-be installed from the blocked npm registry.
+Legend: `P` = pass. Results below come from `npm run bootstrap` plus
+`npx vitest run` over all implemented goldens and synthetic dispatch cases.
 
 | Capture | Adapter | I1 | I2 | I3 | I4 | I5 | I6 | I7 | I8 | I9 | I10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -23,12 +21,16 @@ be installed from the blocked npm registry.
 | `gpt-oss/openai-compat.sse` | F2 | P | P | P | P | P | P | P | P | P | P |
 | `gpt-oss/openai-compat-tools.sse` | F2 | P | P | P | P | P | P | P | P | P | P |
 | `gpt-oss/compat-preamble.sse` | F2 | P | P | P | P | P | P | P | P | P | P |
+| `gpt-oss/native-default.jsonl` | ollama-native | P | P | P | P | P | P | P | P | P | P |
+| `gpt-oss/native-think-low.jsonl` | ollama-native | P | P | P | P | P | P | P | P | P | P |
+| `gpt-oss/native-tools.jsonl` | ollama-native | P | P | P | P | P | P | P | P | P | P |
+| `gpt-oss/native-preamble.jsonl` | ollama-native | P | P | P | P | P | P | P | P | P | P |
 | `openai/cc-tool-call.sse` | F2 | P | P | P | P | P | P | P | P | P | P |
-| `openai/responses-reasoning.sse` | F3 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| `openai/responses-reasoning-o4-mini.sse` | F3 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| `gemini/gemini-2.5-flash-thinking.sse` | F5 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| `gemini/gemini-2.5-flash-thinking-long.sse` | F5 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
-| `gemini/gemini-2.5-flash-tool-thinking.sse` | F5 | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO | TODO |
+| `openai/responses-reasoning.sse` | F3 | P | P | P | P | P | P | P | P | P | P |
+| `openai/responses-reasoning-o4-mini.sse` | F3 | P | P | P | P | P | P | P | P | P | P |
+| `gemini/gemini-2.5-flash-thinking.sse` | F5 | P | P | P | P | P | P | P | P | P | P |
+| `gemini/gemini-2.5-flash-thinking-long.sse` | F5 | P | P | P | P | P | P | P | P | P | P |
+| `gemini/gemini-2.5-flash-tool-thinking.sse` | F5 | P | P | P | P | P | P | P | P | P | P |
 
 ## Invariant Key
 
@@ -48,4 +50,8 @@ be installed from the blocked npm registry.
 - F1 `signature_delta` is recorded in adapter transcript and absent from events.
 - F1e Claude CLI snapshot signatures are recorded in adapter transcript and absent from events.
 - OpenRouter `reasoning_details[].signature` and `reasoning.encrypted.data` are recorded in adapter transcript and absent from events.
+- Gemini `thoughtSignature` is recorded in adapter transcript as `gemini_thought_signature` and absent from events.
 - F2 usage probing covers top-level, `choices[0].usage`, and `choices[0].delta.usage` locations; the third is covered by a synthetic unit in the vitest file because the current Moonshot captures place usage at `choices[0].usage`.
+- F3 synthetic coverage verifies token-limit `response.incomplete` dispatches to Truncate, while content-filter `response.incomplete` dispatches to Reject with no `final_answer`.
+- F5 synthetic coverage verifies MAX_TOKENS, SAFETY, RECITATION, OTHER, and MALFORMED_FUNCTION_CALL finishReason dispatch.
+- Ollama-native synthetic coverage verifies `tool_calls[].function.arguments` remains a JSON object, not a string.

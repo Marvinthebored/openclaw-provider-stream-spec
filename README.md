@@ -12,10 +12,11 @@ archived, and projected by each channel to the best of its ability.
 Draft v0.4. Twice independently red-teamed (Claude + Codex adversarial passes, 43
 findings folded), and reconciled against a live capture library spanning ~10 provider
 dialects. UX policy for the Discord reference projection is ratified. The conformance replay
-harness is included (`harness/`) and **green**: 18 tests passing — 17 golden captures
-replayed through reference F1/F1e/F2 adapters with all ten spec invariants asserted
-(F3/F5 adapters stubbed, marked todo). Reproduce: `cd harness && npm install && npx
-vitest run`.
+harness is included (`harness/`) and **complete and green**: 35 tests passing — all 26
+golden captures replayed through reference adapters for every wire family (F1, F1e,
+F2 incl. dialects, F3, F5, plus the ollama-native envelope) with all ten spec
+invariants asserted. Fixtures are reviewed/blessed. Reproduce: `cd harness &&
+npm install && npx vitest run`.
 
 ## Relationship to the upstream I/O contract
 

@@ -1,0 +1,7 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"gemini","model":"gemini-2.5-flash","id":"_W4rau6JMceajuMPt6-s6A0"}}
+{"seq":2,"stream":"thinking","data":{"variant":"summary","phase":"start"}}
+{"seq":3,"stream":"thinking","data":{"variant":"summary","delta":"**Initiating Weather Retrieval**\n\nI've got the request to fetch Tokyo's weather using the `get_weather` tool. The key here is the `city` parameter needed by that tool. So, I'm setting up a call to `get_weather`, feeding it \"Tokyo\" as the city, and the weather update for Tokyo should be coming.\n\n\n"}}
+{"seq":4,"stream":"thinking","data":{"variant":"summary","phase":"end","tokens":52}}
+{"seq":5,"stream":"item","data":{"phase":"start","id":"_W4rau6JMceajuMPt6-s6A0:0:0","index":0,"kind":"tool","name":"get_weather","status":"in_progress","input":{"city":"Tokyo"}}}
+{"seq":6,"stream":"item","data":{"phase":"end","id":"_W4rau6JMceajuMPt6-s6A0:0:0","index":0,"kind":"tool","name":"get_weather","status":"completed","arguments":{"city":"Tokyo"}}}
+{"seq":7,"stream":"lifecycle","data":{"phase":"end","reason":"tool_use","status":"completed","usage":{"promptTokenCount":52,"candidatesTokenCount":14,"totalTokenCount":118,"promptTokensDetails":[{"modality":"TEXT","tokenCount":52}],"thoughtsTokenCount":52,"serviceTier":"standard"},"diagnostic":{"code":"finish_message","detail":"Model generated function call(s)."}}}

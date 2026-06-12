@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@11.3.0",
+  "packageManager": "npm@11.12.1",
   "scripts": {
-    "bootstrap": "tsx tools/bootstrap.ts",
+    "bootstrap": "node tools/bootstrap.ts",
     "test": "vitest run"
   },
   "devDependencies": {
