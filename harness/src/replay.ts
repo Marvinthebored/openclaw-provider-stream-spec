@@ -6,6 +6,7 @@ import { f2ChatCompletionsAdapter } from "./adapters/f2-chat-completions.ts";
 import { f3ResponsesAdapter } from "./adapters/f3-responses.ts";
 import { f5GeminiAdapter } from "./adapters/f5-gemini.ts";
 import { ollamaNativeAdapter } from "./adapters/ollama-native.ts";
+import { codexAppServerAdapter } from "./adapters/codex-appserver.ts";
 
 const adapters: Record<AdapterId, Adapter> = {
   f1: f1AnthropicSseAdapter,
@@ -13,7 +14,8 @@ const adapters: Record<AdapterId, Adapter> = {
   f2: f2ChatCompletionsAdapter,
   f3: f3ResponsesAdapter,
   f5: f5GeminiAdapter,
-  "ollama-native": ollamaNativeAdapter
+  "ollama-native": ollamaNativeAdapter,
+  "codex-appserver": codexAppServerAdapter
 };
 
 export function replayCapture(capturePath: string, adapterId: AdapterId): ReplayResult {

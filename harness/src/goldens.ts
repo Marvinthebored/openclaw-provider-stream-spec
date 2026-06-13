@@ -52,6 +52,13 @@ export const goldens: Golden[] = [
   golden("f5 gemini thinking long", "f5", "../evidence/captures/gemini/gemini-2.5-flash-thinking-long.sse", implemented),
   golden("f5 gemini tool thinking", "f5", "../evidence/captures/gemini/gemini-2.5-flash-tool-thinking.sse", implemented, [
     "gemini_thought_signature"
+  ]),
+
+  golden("codex app-server reasoning", "codex-appserver", "../evidence/captures/codex/codex-appserver-reasoning.jsonl", implemented, [
+    "codex_raw_reasoning"
+  ]),
+  golden("codex app-server tool use", "codex-appserver", "../evidence/captures/codex/codex-appserver-tooluse.jsonl", implemented, [
+    "codex_raw_reasoning"
   ])
 ];
 

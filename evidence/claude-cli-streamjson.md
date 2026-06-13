@@ -8,10 +8,10 @@ Status: draft | Date: 2026-06-12 | Agent: Doc (claude-marvin capture)
   consumer code (read-only).
 - Captures (live, subscription auth via `claude-marvin` wrapper, no API key):
   - `captures/claude-cli/plain.jsonl` — command:
-    `~/.local/bin/claude-marvin -p 'Reply with exactly: capture-ok' --output-format stream-json --include-partial-messages --verbose`
+    `/redacted/.local/bin/claude-marvin -p 'Reply with exactly: capture-ok' --output-format stream-json --include-partial-messages --verbose`
     (15 frames, exit 0, ~8.3s wall)
   - `captures/claude-cli/reasoning.jsonl` — command:
-    `~/.local/bin/claude-marvin -p 'Think step by step: what is 17*23? Show only the final number.' --output-format stream-json --include-partial-messages --verbose`
+    `/redacted/.local/bin/claude-marvin -p 'Think step by step: what is 17*23? Show only the final number.' --output-format stream-json --include-partial-messages --verbose`
     (11 frames, exit 0, ~6.3s wall)
   - Both stderr files (`stderr-plain.txt`, `stderr-reasoning.txt`) are empty —
     clean runs, no warnings.

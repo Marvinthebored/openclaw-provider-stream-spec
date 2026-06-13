@@ -1,0 +1,5 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"openai","model":"gpt-5.5","id":"00000000-0000-0000-0000-000000000002"}}
+{"seq":2,"stream":"thinking","data":{"variant":"redacted","id":"rs_002ac9716ae5aeab016a2bb64471bc8191b3991f2943042e8d"}}
+{"seq":3,"stream":"assistant","data":{"phase":"commentary","delta":"391","id":"msg_002ac9716ae5aeab016a2bb64511208191961aa9cff70f4f38","status":"in_progress"}}
+{"seq":4,"stream":"assistant","data":{"phase":"final_answer","id":"msg_002ac9716ae5aeab016a2bb64511208191961aa9cff70f4f38","text":"391","status":"completed"}}
+{"seq":5,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"total":{"totalTokens":11202,"inputTokens":11154,"cachedInputTokens":9600,"outputTokens":48,"reasoningOutputTokens":41},"last":{"totalTokens":11202,"inputTokens":11154,"cachedInputTokens":9600,"outputTokens":48,"reasoningOutputTokens":41},"modelContextWindow":258400}}}

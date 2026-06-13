@@ -1,0 +1,52 @@
+{"seq":1,"stream":"lifecycle","data":{"phase":"start","provider":"openai","model":"gpt-5.5","id":"00000000-0000-0000-0000-000000000004"}}
+{"seq":2,"stream":"assistant","data":{"phase":"commentary","delta":"I","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":3,"stream":"assistant","data":{"phase":"commentary","delta":"’ll","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":4,"stream":"assistant","data":{"phase":"commentary","delta":" inspect","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":5,"stream":"assistant","data":{"phase":"commentary","delta":" the","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":6,"stream":"assistant","data":{"phase":"commentary","delta":" current","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":7,"stream":"assistant","data":{"phase":"commentary","delta":" directory","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":8,"stream":"assistant","data":{"phase":"commentary","delta":" listing","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":9,"stream":"assistant","data":{"phase":"commentary","delta":" with","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":10,"stream":"assistant","data":{"phase":"commentary","delta":" `","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":11,"stream":"assistant","data":{"phase":"commentary","delta":"ls","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":12,"stream":"assistant","data":{"phase":"commentary","delta":" -","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":13,"stream":"assistant","data":{"phase":"commentary","delta":"la","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":14,"stream":"assistant","data":{"phase":"commentary","delta":"`","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":15,"stream":"assistant","data":{"phase":"commentary","delta":" and","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":16,"stream":"assistant","data":{"phase":"commentary","delta":" count","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":17,"stream":"assistant","data":{"phase":"commentary","delta":" the","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":18,"stream":"assistant","data":{"phase":"commentary","delta":" rows","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":19,"stream":"assistant","data":{"phase":"commentary","delta":" it","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":20,"stream":"assistant","data":{"phase":"commentary","delta":" reports","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":21,"stream":"assistant","data":{"phase":"commentary","delta":",","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":22,"stream":"assistant","data":{"phase":"commentary","delta":" including","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":23,"stream":"assistant","data":{"phase":"commentary","delta":" `","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":24,"stream":"assistant","data":{"phase":"commentary","delta":".`","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":25,"stream":"assistant","data":{"phase":"commentary","delta":" and","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":26,"stream":"assistant","data":{"phase":"commentary","delta":" `","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":27,"stream":"assistant","data":{"phase":"commentary","delta":"..","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":28,"stream":"assistant","data":{"phase":"commentary","delta":"`.","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","status":"in_progress"}}
+{"seq":29,"stream":"assistant","data":{"phase":"commentary","id":"msg_0165b55d33dac7c5016a2bb67a0b248191a03e5a43d42b885e","text":"I’ll inspect the current directory listing with `ls -la` and count the rows it reports, including `.` and `..`.","status":"completed"}}
+{"seq":30,"stream":"item","data":{"phase":"start","id":"call_gBsbWDpgAb1aLTnOpLj4ZVrc","kind":"tool","name":"commandExecution","status":"in_progress","input":"/bin/zsh -lc 'ls -la'"}}
+{"seq":31,"stream":"item","data":{"phase":"update","id":"call_gBsbWDpgAb1aLTnOpLj4ZVrc","kind":"tool","name":"commandExecution","status":"in_progress","output_delta":"total 0\ndrwxr-xr-x    2 admin  wheel    64 Jun 12 15:30 .\ndrwxrwxrwt  159 root   wheel  5088 Jun 12 15:33 ..\n"}}
+{"seq":32,"stream":"item","data":{"phase":"end","id":"call_gBsbWDpgAb1aLTnOpLj4ZVrc","kind":"tool","name":"commandExecution","status":"completed","input":"/bin/zsh -lc 'ls -la'","output":"total 0\ndrwxr-xr-x    2 admin  wheel    64 Jun 12 15:30 .\ndrwxrwxrwt  159 root   wheel  5088 Jun 12 15:33 ..\n"}}
+{"seq":33,"stream":"thinking","data":{"variant":"redacted","id":"rs_0165b55d33dac7c5016a2bb67e55588191bffd2bb61bc4ed1d"}}
+{"seq":34,"stream":"assistant","data":{"phase":"commentary","delta":"`","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":35,"stream":"assistant","data":{"phase":"commentary","delta":"ls","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":36,"stream":"assistant","data":{"phase":"commentary","delta":" -","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":37,"stream":"assistant","data":{"phase":"commentary","delta":"la","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":38,"stream":"assistant","data":{"phase":"commentary","delta":"`","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":39,"stream":"assistant","data":{"phase":"commentary","delta":" shows","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":40,"stream":"assistant","data":{"phase":"commentary","delta":" ","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":41,"stream":"assistant","data":{"phase":"commentary","delta":"2","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":42,"stream":"assistant","data":{"phase":"commentary","delta":" directory","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":43,"stream":"assistant","data":{"phase":"commentary","delta":" entries","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":44,"stream":"assistant","data":{"phase":"commentary","delta":":","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":45,"stream":"assistant","data":{"phase":"commentary","delta":" `","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":46,"stream":"assistant","data":{"phase":"commentary","delta":".`","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":47,"stream":"assistant","data":{"phase":"commentary","delta":" and","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":48,"stream":"assistant","data":{"phase":"commentary","delta":" `","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":49,"stream":"assistant","data":{"phase":"commentary","delta":"..","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":50,"stream":"assistant","data":{"phase":"commentary","delta":"`.","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","status":"in_progress"}}
+{"seq":51,"stream":"assistant","data":{"phase":"final_answer","id":"msg_0165b55d33dac7c5016a2bb67f119c8191bbdeedaf783f8378","text":"`ls -la` shows 2 directory entries: `.` and `..`.","status":"completed"}}
+{"seq":52,"stream":"lifecycle","data":{"phase":"end","reason":"completed","status":"completed","usage":{"total":{"totalTokens":22657,"inputTokens":22505,"cachedInputTokens":19200,"outputTokens":152,"reasoningOutputTokens":50},"last":{"totalTokens":11414,"inputTokens":11341,"cachedInputTokens":9600,"outputTokens":73,"reasoningOutputTokens":50},"modelContextWindow":258400}}}

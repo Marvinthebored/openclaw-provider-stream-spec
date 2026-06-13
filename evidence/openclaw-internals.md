@@ -1,6 +1,6 @@
 # OpenClaw internals audit: streaming/reasoning/verbosity gates, adapter emit/drop, channel capability
 
-Repo: ~/openclaw (branch ga-build), read-only audit. All paths repo-relative unless noted.
+Repo: /redacted/openclaw (branch ga-build), read-only audit. All paths repo-relative unless noted.
 
 ## 1. SETTINGS GATE MAP
 

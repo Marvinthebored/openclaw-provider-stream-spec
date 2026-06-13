@@ -14,7 +14,7 @@ Status: draft | Date: 2026-06-12 | Agent: Claude (provider-content-pipeline)
   - Note: `https://openrouter.ai/docs/api-reference/streaming` and `.../use-cases/reasoning-tokens` (the URL shapes initially guessed) both 404 — OpenRouter's docs tree moved to `/docs/api/reference/...` and `/docs/guides/...`. Recorded here so future agents don't repeat the dead lookups.
 
 - Captures: **capture blocked: no OPENROUTER_API_KEY in env**. Verified with `[ -n "$OPENROUTER_API_KEY" ]` → not set. No filesystem search for keys was performed (per task constraints). A ready-to-run capture script was written to
-  `~/.openclaw/workspace/marvin/projects/provider-content-pipeline/evidence/captures/openrouter/capture.sh`.
+  `/redacted/.openclaw/workspace/marvin/projects/provider-content-pipeline/evidence/captures/openrouter/capture.sh`.
   It captures three SSE streams with the **same prompt** and a small `max_tokens` budget, reasoning enabled where supported:
   - `deepseek-r1.sse` — `deepseek/deepseek-r1` with `reasoning.max_tokens: 100`
   - `claude-sonnet.sse` — `anthropic/claude-sonnet-4.6` with `reasoning.max_tokens: 1024`

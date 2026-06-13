@@ -9,10 +9,11 @@ Implemented:
 - F3 OpenAI Responses adapter: lifecycle start/update/drop handling, output text/refusal segments keyed as `item_id:content_index`, reasoning raw/summary/redacted lanes, encrypted reasoning transcript, function-call items, completed/failed/incomplete dispatch, usage/thinking-token backfill, and stream-closed synthesis.
 - F5 Gemini GenAI SSE adapter: `thought:true` parts as thinking `summary`, `thoughtSignature` transcript side-channel, function-call item start/end, cumulative `usageMetadata`, finishReason dispatch for STOP/MAX_TOKENS/SAFETY/RECITATION/OTHER/MALFORMED_FUNCTION_CALL, and stream-closed synthesis.
 - Ollama-native `/api/chat` envelope adapter for gpt-oss captures: `message.thinking` raw thinking, `message.content` final text, object-form `tool_calls[].function.arguments`, native usage/perf stats, and tool-use terminal dispatch.
-- Expected fixtures generated for all 26 implemented goldens.
+- Codex app-server JSON-RPC envelope adapter (openclaw's main OpenAI transport, ChatGPT OAuth): explicit `phase` commentary/final_answer on agentMessage items, redacted thinking marker for encrypted-only OAuth reasoning, raw-reasoning transcript side-channel, server-executed tool items with streamed `output_delta`/`output`, usage via `thread/tokenUsage/updated`, operator-metadata drops, turn/error dispatch.
+- Expected fixtures generated for all 28 implemented goldens.
 
 Verification:
 
 - `npm install` passes.
 - `npm run bootstrap` passes and regenerates all expected fixtures. The bootstrap script uses `node tools/bootstrap.ts` because `tsx` cannot open its IPC pipe in this sandbox.
-- `npx vitest run` passes: 1 test file, 35 tests.
+- `npx vitest run` passes: 1 test file, 37 tests.

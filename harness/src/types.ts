@@ -1,4 +1,4 @@
-export type AdapterId = "f1" | "f1e" | "f2" | "f3" | "f5" | "ollama-native";
+export type AdapterId = "f1" | "f1e" | "f2" | "f3" | "f5" | "ollama-native" | "codex-appserver";
 
 export type StreamName = "assistant" | "thinking" | "item" | "lifecycle";
 
@@ -30,6 +30,9 @@ export type ItemEventData = {
   input_delta?: string;
   input?: unknown;
   arguments?: unknown;
+  // server-executed tools (codex app-server) stream results back too
+  output_delta?: string;
+  output?: unknown;
 };
 
 export type LifecycleEventData = {

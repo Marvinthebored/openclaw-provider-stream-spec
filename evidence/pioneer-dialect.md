@@ -5,8 +5,8 @@ Status: draft (code-derived, no live capture) | Date: 2026-06-12 | Agent: Doc
 ## 1. Sources
 
 - Docs: none found. No `docs/` page or plugin manifest for a "pioneer" provider
-  exists in the read-only `~/openclaw` checkout.
-- Code (read-only, `~/openclaw`, `git -c core.hooksPath=/dev/null`
+  exists in the read-only `/redacted/openclaw` checkout.
+- Code (read-only, `/redacted/openclaw`, `git -c core.hooksPath=/dev/null`
   not needed — no writes):
   - `src/agents/openai-transport-stream.test.ts:1588-1627` — the only place
     "pioneer" appears as a *model* fixture: `provider: "pioneer-ai"`,
@@ -279,3 +279,17 @@ which only proves the *intended* family, not a verified wire capture.
   entitlement is Claude-family only (matches the openclaw allowlist:
   pioneer/claude-{haiku-4-5,opus-4-6,opus-4-8,sonnet-4-6}). deepseek-dialect goldens
   come from deepseek-direct and OpenRouter instead.
+
+## 11. §9 (a)-vs-(b) RESOLVED (2026-06-13, Stage-A sandbox)
+
+With the `emitReasoning` discard removed from `openai-transport-stream.ts`
+(migration item 6, pipeline-stage-a branch), a live `claude-opus-4-8` turn through
+the pioneer F2 endpoint (`--thinking low`, declared as plain `openai-completions`
+provider) STILL produces no thinking content — final answer correct, zero reasoning
+deltas archived. Explanation (a) confirmed for the F2 surface: the pioneer
+chat-completions endpoint does not return reasoning for Claude models (at least not
+for reasoning_effort-style requests). Caveat: Marvin's production pioneer plugin
+(`pioneer-provider-adapter`, dual-transport routing) may route Claude models via
+anthropic-messages (F1) where thinking budgets work — verify on live Marvin during
+Stage-A A4. Contrast: deepseek-direct and opencode-go/glm-5.1 turns through the same
+patched transport archive full thinking blocks (emit-always proven end-to-end).

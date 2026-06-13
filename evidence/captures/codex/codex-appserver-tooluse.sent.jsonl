@@ -1,0 +1,4 @@
+{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"clientInfo":{"name":"openclaw","title":"OpenClaw","version":"capture"},"capabilities":{"experimentalApi":true}}}
+{"jsonrpc":"2.0","method":"initialized"}
+{"jsonrpc":"2.0","id":2,"method":"thread/start","params":{"cwd":"/tmp/codex-capture","sandbox":"read-only","approvalPolicy":"never","experimentalRawEvents":true}}
+{"jsonrpc":"2.0","id":3,"method":"turn/start","params":{"threadId":"00000000-0000-0000-0000-000000000004","input":[{"type":"text","text":"Briefly say what you are about to do, then run 'ls -la' in the current directory, and report how many entries there are."}]}}
